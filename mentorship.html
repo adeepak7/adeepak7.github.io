@@ -1,0 +1,104 @@
+<div class="row m-1">
+
+    <div class="cell-lg-3 cell-md-6">
+        <div class="mt-1">
+
+            <ul id="index" data-tabs-position="vertical h-100" data-role="tabs" data-tabs-type="group" data-expand="true" data-on-tab="loadContents">
+                <li id="invited_talks"><a class="d-flex flex-justify-start" href="#">Invited Talks</a></li>
+            </ul>
+
+        </div>
+    </div>
+
+    <div class="cell-lg-9 cell-md-6">
+        <div id="question" class="window mt-1" style="width:100%">
+            <div class="window-caption">
+                <span id="card-title" class="title">Card header</span>
+            </div>
+            <div class="window-content p-1 d-flex">
+
+                <div id="card-content" class="mr-auto text-small" style="width: 100%">
+
+                    <div class="card">
+
+                        <div class="card-header">
+                            <div class="avatar">
+                                <img src="https://scontent.fbom2-1.fna.fbcdn.net/v/t1.0-1/p320x320/50580467_1617986761679486_2629052737190363136_o.jpg?_nc_cat=103&_nc_sid=1eb0c7&_nc_ohc=2RcK_RH1VXsAX9RkbQD&_nc_ht=scontent.fbom2-1.fna&_nc_tp=6&oh=372cc8c49643bc8f9c0780cdcfde7c64&oe=5F5C0D31">
+                            </div>
+                            <div class="name">Personality Advancement Circle of Engineers (PACE), WCE - Placement Talk 2018</div>
+                            <div class="date">Monday at 3:47 PM</div>
+                        </div>
+
+                        <div class="card-content">
+
+                            <div class="row">
+
+                                <div class="cell-lg-4 cell-md-4">
+                                    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwcepace%2Fvideos%2F1296865000458332%2F&show_text=1&width=267"
+                                            width="267"
+                                            height="623"
+                                            style="border:none;overflow:hidden"
+                                            scrolling="no"
+                                            frameborder="0"
+                                            allowTransparency="true"
+                                            allow="encrypted-media"
+                                            allowFullScreen="true">
+                                    </iframe>
+                                </div>
+
+                                <div class="cell-lg-5 cell-md-2">
+
+                                    I sharing my views about the interview.
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script>
+
+    /*
+        Globals
+     */
+
+    $.ajaxSetup({ cache: false });
+
+    function loadIndex(){
+
+        const dataPath = "data/mentorship/mentorship.json";
+
+        $.getJSON(dataPath)
+            .done(function(data){
+                console.log(data);
+
+                for(let i=0;i<data.index.length;i++){
+                    let listId = data.index_id[i];
+                    let listItem = "<li id=" + listId + "><a class=\"d-flex flex-justify-start text-secondary\" href=\"#\">" + data.index[i] +"</a></li>";
+                    $("#index").append(listItem);
+                }
+            }).fail(function () {
+
+        })
+    }
+
+    loadIndex();
+
+
+    function loadContents(tab){
+        console.log("Request to load content received", tab.id);
+    }
+
+</script>

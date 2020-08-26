@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navview .navview-content {
+  padding-top: 52px;
+  background-color: #ECF0F5;
+}

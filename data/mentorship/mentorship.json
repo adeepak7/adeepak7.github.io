@@ -1,0 +1,16 @@
+{
+  "index": ["WCE Covid-19 Visitor Management", "Invited Talks", "Mentor to Coding, ACSES", "Mock Interviews", "Owner of WCE Codepals"],
+
+  "index_id": [ "wce_covid19_visitor_managements", "invited_talks", "mentor_to_coding_expert", "mock_interviews", "owner_of_wce_codepals"],
+
+  "wce_covid19_visitor_managements": "wce_covid19_visitor_managements.json",
+
+  "invited_talks": "invited_talks_card.json",
+
+  "mentor_to_coding_expert": "mentor_to_coding_expert_card.json",
+
+  "mock_interviews": "mock_interviews_card.json",
+
+  "owner_of_wce_codepals": "owner_of_wce_codepals.json"
+
+}
