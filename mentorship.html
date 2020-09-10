@@ -80,6 +80,9 @@
 
         const dataPath = "data/mentorship/mentorship.json";
 
+        //Important in case of multiple events fired
+        $("#index").empty();
+
         $.getJSON(dataPath)
             .done(function(data){
                 console.log(data);
