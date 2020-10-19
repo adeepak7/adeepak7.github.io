@@ -1,16 +1,8 @@
 {
-  "contents": [
-
-    {
-      "header_image": "https://scontent.fbom2-1.fna.fbcdn.net/v/t1.0-1/p320x320/50580467_1617986761679486_2629052737190363136_o.jpg?_nc_cat=103&_nc_sid=1eb0c7&_nc_ohc=2RcK_RH1VXsAX9RkbQD&_nc_ht=scontent.fbom2-1.fna&_nc_tp=6&oh=372cc8c49643bc8f9c0780cdcfde7c64&oe=5F5C0D31",
-      "header_name": "Personality Advancement Circle of Engineers (PACE), WCE - Placement Talk 2018",
-      "header_date": "Monday at 3:47 PM",
-      "body": "",
-      "footer": ""
-    },
-    {
-
-    }
-
-  ]
+  "title": "Mentorship: Invited Talks",
+  "logo": "images/pace_logo.png",
+  "name": "Personality Advancement Circle of Engineers (PACE), WCE - Placement Talk 2018",
+  "date": "Monday at 3:47 PM",
+  "body": "<div class='row p-2'> <div class='cell-lg-4 cell-md-4'> <iframe src='https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwcepace%2Fvideos%2F1296865000458332%2F&show_text=1&width=267' width='267' height='623' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowTransparency='true' allow='encrypted-media' allowFullScreen='true'> </iframe> </div> <div class='cell-lg-5 cell-md-2'> I sharing my views about the interview. </div>",
+  "footer": ""
 }

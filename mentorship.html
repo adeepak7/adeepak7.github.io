@@ -13,7 +13,7 @@
     <div class="cell-lg-9 cell-md-6">
         <div id="question" class="window mt-1" style="width:100%">
             <div class="window-caption">
-                <span id="card-title" class="title">Card header</span>
+                <span id="card-title" class="title">Mentorship</span>
             </div>
             <div class="window-content p-1 d-flex">
 
@@ -23,36 +23,15 @@
 
                         <div class="card-header">
                             <div class="avatar">
-                                <img src="https://scontent.fbom2-1.fna.fbcdn.net/v/t1.0-1/p320x320/50580467_1617986761679486_2629052737190363136_o.jpg?_nc_cat=103&_nc_sid=1eb0c7&_nc_ohc=2RcK_RH1VXsAX9RkbQD&_nc_ht=scontent.fbom2-1.fna&_nc_tp=6&oh=372cc8c49643bc8f9c0780cdcfde7c64&oe=5F5C0D31">
+                                <img id="card-logo" src="images/wce_logo.png">
                             </div>
-                            <div class="name">Personality Advancement Circle of Engineers (PACE), WCE - Placement Talk 2018</div>
-                            <div class="date">Monday at 3:47 PM</div>
+                            <div id="card-name" class="name">WCE Visitor Management</div>
+                            <div id="card-date" class="date"> djfnkdn</div>
                         </div>
 
-                        <div class="card-content">
+                        <div id="card-body" class="card-content">
 
-                            <div class="row">
-
-                                <div class="cell-lg-4 cell-md-4">
-                                    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwcepace%2Fvideos%2F1296865000458332%2F&show_text=1&width=267"
-                                            width="267"
-                                            height="623"
-                                            style="border:none;overflow:hidden"
-                                            scrolling="no"
-                                            frameborder="0"
-                                            allowTransparency="true"
-                                            allow="encrypted-media"
-                                            allowFullScreen="true">
-                                    </iframe>
-                                </div>
-
-                                <div class="cell-lg-5 cell-md-2">
-
-                                    I sharing my views about the interview.
-
-                                </div>
-
-                            </div>
+                            <!-- Find card body from the body key of the specific cards-->
 
                         </div>
 
@@ -92,6 +71,12 @@
                     let listItem = "<li id=" + listId + "><a class=\"d-flex flex-justify-start text-secondary\" href=\"#\">" + data.index[i] +"</a></li>";
                     $("#index").append(listItem);
                 }
+
+                //First Index Item
+                let firstIndexItem = data.index_id[0];
+                console.log("First Index Item:", firstIndexItem);
+                loadCustomContents(firstIndexItem);
+
             }).fail(function () {
 
         })
@@ -100,8 +85,60 @@
     loadIndex();
 
 
+    function loadCustomContents(tab){
+        console.log("Request to load custom content received", tab);
+        const dataPath = "data/mentorship/" + tab + "_card.json";
+
+        $.getJSON(dataPath)
+            .done(function(data){
+                console.log(data);
+
+                let card_body = data.body;
+                document.getElementById("card-body").innerHTML = JSON.parse(JSON.stringify(card_body));
+
+                let card_title = data.title;
+                document.getElementById("card-title").innerHTML = card_title;
+
+                let card_logo = data.logo;
+                document.getElementById("card-logo").src = card_logo;
+
+                let card_name = data.name;
+                document.getElementById("card-name").innerHTML = JSON.parse(JSON.stringify(card_name));
+
+                let card_date = data.date;
+                document.getElementById("card-date").innerHTML = card_date;
+
+            }).fail(function () {
+
+        })
+    }
+
     function loadContents(tab){
         console.log("Request to load content received", tab.id);
+        const dataPath = "data/mentorship/" + tab.id + "_card.json";
+
+        $.getJSON(dataPath)
+            .done(function(data){
+                console.log(data);
+
+                let card_body = data.body;
+                document.getElementById("card-body").innerHTML = JSON.parse(JSON.stringify(card_body));
+
+                let card_title = data.title;
+                document.getElementById("card-title").innerHTML = card_title;
+
+                let card_logo = data.logo;
+                document.getElementById("card-logo").src = card_logo;
+
+                let card_name = data.name;
+                document.getElementById("card-name").innerHTML = JSON.parse(JSON.stringify(card_name));
+
+                let card_date = data.date;
+                document.getElementById("card-date").innerHTML = card_date;
+
+            }).fail(function () {
+
+        })
     }
 
 </script>
