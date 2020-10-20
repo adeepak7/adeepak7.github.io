@@ -57,7 +57,7 @@
 
     function loadIndex(){
 
-        const dataPath = "data/mentorship/mentorship.json";
+        const dataPath = "data/invited_talks/invited_talks.json";
 
         //Important in case of multiple events fired
         $("#index").empty();
@@ -87,7 +87,7 @@
 
     function loadCustomContents(tab){
         console.log("Request to load custom content received", tab);
-        const dataPath = "data/mentorship/" + tab + "_card.json";
+        const dataPath = "data/invited_talks/" + tab + "_card.json";
 
         $.getJSON(dataPath)
             .done(function(data){
@@ -115,7 +115,7 @@
 
     function loadContents(tab){
         console.log("Request to load content received", tab.id);
-        const dataPath = "data/mentorship/" + tab.id + "_card.json";
+        const dataPath = "data/invited_talks/" + tab.id + "_card.json";
 
         $.getJSON(dataPath)
             .done(function(data){
