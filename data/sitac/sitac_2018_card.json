@@ -3,6 +3,6 @@
   "logo": "images/wce_logo.png",
   "name": "Social Information Technology Awareness Campaign 2018",
   "date": "June 2020",
-  "body": "<div class='row m-2'><video data-role=\"video-player\" data-src=\"data/sitac/sitac_2018_videos/compiler.mp4\"></video></div>",
+  "body": "<div class='row m-2'><ul><li>The student explains the compiler's concept by an analogy of 3 persons drawn on the board. 2 persons at the extreme right and left speak different languages. The person in the middle speaks both languages. The persons at the extremes use the middle person who facilitates the communication between them. This is just how we communicate with the processor with the use of the compiler as a middleman.<video class='mb-8' data-role=\"video-player\" data-src=\"data/sitac/sitac_2018_videos/compiler.mp4\"></video></li><li>I am explaining the difference between the hardware and the software to the students and making them realize that they should have complete knowledge of their daily computing devices.<video class='mb-8' data-role=\"video-player\" data-src=\"data/sitac/sitac_2018_videos/teaching.mp4\"></video> </li><li>It's time for revision! One of the student summaries all the concepts we learned today.<video class='mb-8' data-role=\"video-player\" data-src=\"data/sitac/sitac_2018_videos/revision.mp4\"></video> </li></ul></div>",
   "footer": ""
 }
