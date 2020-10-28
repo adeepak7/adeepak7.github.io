@@ -64,7 +64,7 @@
 
         $.getJSON(dataPath)
             .done(function(data){
-                console.log(data);
+                //console.log(data);
 
                 for(let i=0;i<data.index.length;i++){
                     let listId = data.index_id[i];
@@ -74,7 +74,7 @@
 
                 //First Index Item
                 let firstIndexItem = data.index_id[0];
-                console.log("First Index Item:", firstIndexItem);
+                //console.log("First Index Item:", firstIndexItem);
                 loadCustomContents(firstIndexItem);
 
             }).fail(function () {
@@ -86,12 +86,12 @@
 
 
     function loadCustomContents(tab){
-        console.log("Request to load custom content received", tab);
+        //console.log("Request to load custom content received", tab);
         const dataPath = "data/sitac/" + tab + "_card.json";
 
         $.getJSON(dataPath)
             .done(function(data){
-                console.log(data);
+                //console.log(data);
 
                 let card_body = data.body;
                 document.getElementById("card-body").innerHTML = JSON.parse(JSON.stringify(card_body));
@@ -114,12 +114,12 @@
     }
 
     function loadContents(tab){
-        console.log("Request to load content received", tab.id);
+        //console.log("Request to load content received", tab.id);
         const dataPath = "data/sitac/" + tab.id + "_card.json";
 
         $.getJSON(dataPath)
             .done(function(data){
-                console.log(data);
+                //console.log(data);
 
                 let card_body = data.body;
                 document.getElementById("card-body").innerHTML = JSON.parse(JSON.stringify(card_body));

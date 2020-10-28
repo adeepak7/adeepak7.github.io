@@ -2,56 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1454.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1455.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1456.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1457.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1458.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1459.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1460.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1461.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1462.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1463.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1464.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1465.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1466.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1467.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1468.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1469.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1470.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1471.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1472.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1473.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1474.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613354078.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613354342.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613354707.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613355050.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613355407.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1840.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1841.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1842.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1843.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1844.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1845.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1846.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1847.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1848.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1850.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1851.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1852.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1853.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1854.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1857.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1858.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1860.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1861.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/feedback.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sponsorship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_card.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sitac/sitac.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2015_card.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613354078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613354342.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1846.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613354707.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1845.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613355050.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1844.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613355407.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1842.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1842.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1843.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1843.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2018_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_general_info_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_general_info_card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitac.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitac.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,69 +28,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="109" column="13" lean-forward="true" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1841.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_general_info_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1647" selection-start-line="5" selection-start-column="1647" selection-end-line="5" selection-end-column="1647" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/certifications.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="39" column="140" selection-start-line="39" selection-start-column="99" selection-end-line="39" selection-end-column="140" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1842.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_card.json">
+        <entry file="file://$PROJECT_DIR$/sitac.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1075" selection-start-line="5" selection-start-column="1075" selection-end-line="5" selection-end-column="1075" />
+            <state relative-caret-position="-717">
+              <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1843.jpg">
+        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1468.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1454.jpg">
+        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1469.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1455.jpg">
+        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1470.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1457.jpg">
+        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1471.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_card.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4297" selection-start-line="5" selection-start-column="4297" selection-end-line="5" selection-end-column="4297" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/serviceoutreach.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1472.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1473.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1474.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -162,14 +118,16 @@
         <option value="$PROJECT_DIR$/invited_talks.html" />
         <option value="$PROJECT_DIR$/data/mentorship/mentorship.json" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/sitac.html" />
         <option value="$PROJECT_DIR$/data/sitac/sitac_2015.json" />
         <option value="$PROJECT_DIR$/data/sitac/sitac_2015_card.json" />
-        <option value="$PROJECT_DIR$/data/sitac/sitac.json" />
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/data/sitac/sitac_general_info_card.json" />
+        <option value="$PROJECT_DIR$/data/sitac/sitac.json" />
         <option value="$PROJECT_DIR$/data/sitac/sitac_2018_card.json" />
+        <option value="$PROJECT_DIR$/data/sitac/sitac_2017_card.json" />
+        <option value="$PROJECT_DIR$/data/sitac/sitac_2016_card.json" />
+        <option value="$PROJECT_DIR$/sitac.html" />
       </list>
     </option>
   </component>
@@ -206,7 +164,7 @@
               <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="sitac" type="462c0819:PsiDirectoryNode" />
-              <item name="sitac_2018_videos" type="462c0819:PsiDirectoryNode" />
+              <item name="sitac_2016_images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,12 +232,12 @@
       <workItem from="1603693373612" duration="10422000" />
       <workItem from="1603733306008" duration="3705000" />
       <workItem from="1603778305635" duration="3321000" />
-      <workItem from="1603866724568" duration="5780000" />
+      <workItem from="1603866724568" duration="10844000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63897000" />
+    <option name="totallyTimeSpent" value="68961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="954" extended-state="0" />
@@ -348,112 +306,66 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/orcid.png">
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1842.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/serviceoutreach.html">
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1843.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1844.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1846.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1847.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1848.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1850.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1851.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1852.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1857.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1858.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1860.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1861.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1853.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/applications.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="171" column="16" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/pace_logo.png" />
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/typeeffect.css" />
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        <state relative-caret-position="18">
+          <caret line="109" column="13" lean-forward="true" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/invited_talks.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
+        <state relative-caret-position="520">
           <caret line="117" column="44" selection-start-line="117" selection-start-column="44" selection-end-line="117" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/invited_talks/wce_placement_talk_2018_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/invited_talks/invited_talks.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sitac.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="117" column="36" selection-start-line="117" selection-start-column="36" selection-end-line="117" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mentorship.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/mentorship/mentorship.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2015_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="64" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+        <state relative-caret-position="260">
+          <caret line="207" column="106" selection-start-line="207" selection-start-column="65" selection-end-line="207" selection-end-column="106" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -465,25 +377,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613354078.jpg">
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_images/DSC_1854.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613354707.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613354342.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613355050.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/1537613355407.jpg">
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1841.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1840.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1841.jpg">
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1845.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1842.jpg">
@@ -492,40 +395,103 @@
     <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1843.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1844.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1846.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1325" selection-start-line="5" selection-start-column="1325" selection-end-line="5" selection-end-column="1325" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1454.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1455.jpg">
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1460.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1459.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1458.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1457.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="109" column="13" lean-forward="true" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1456.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_general_info_card.json">
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1455.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1461.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1462.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1463.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1464.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1465.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1466.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1467.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1468.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1469.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1470.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1471.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1472.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1473.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1474.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_card.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="1647" selection-start-line="5" selection-start-column="1647" selection-end-line="5" selection-end-column="1647" />
+          <caret line="5" column="4297" selection-start-line="5" selection-start-column="4297" selection-end-line="5" selection-end-column="4297" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/certifications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="39" column="140" selection-start-line="39" selection-start-column="99" selection-end-line="39" selection-end-column="140" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/serviceoutreach.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_card.json">
+    <entry file="file://$PROJECT_DIR$/sitac.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1075" selection-start-line="5" selection-start-column="1075" selection-end-line="5" selection-end-column="1075" />
+        <state relative-caret-position="-717">
+          <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
         </state>
       </provider>
     </entry>
