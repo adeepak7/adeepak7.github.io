@@ -1,6 +1,6 @@
 {
-  "index": ["SITAC (General Information)","SITAC 2018", "SITAC 2017", "SITAC 2016"],
+  "index": ["SITAC 2018", "SITAC 2017", "SITAC 2016"],
 
-  "index_id": [ "sitac_general_info","sitac_2018", "sitac_2017", "sitac_2016"]
+  "index_id": ["sitac_2018", "sitac_2017", "sitac_2016"]
 
 }
