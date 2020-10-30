@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/acses_gim_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/acses_gim_images/gim_poster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/wce_alumni_meet_card.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/certifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/certifications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/invited_talks/wce_placement_talk_2018_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/invited_talks/wce_placement_talk_2018_card.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/service_outreach/c_workshop_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/service_outreach/service_outreach.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/service_outreach/service_outreach.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceoutreach.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceoutreach.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitac.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitac.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/service_outreach/weekly_club_service_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/service_outreach/weekly_club_service_card.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,33 +19,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/service_outreach/wce_alumni_meet_card.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/service_outreach.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="204" selection-start-line="1" selection-start-column="204" selection-end-line="1" selection-end-column="204" />
+            <state relative-caret-position="75">
+              <caret line="5" column="1258" selection-start-line="5" selection-start-column="1252" selection-end-line="5" selection-end-column="1258" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_card.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="984" selection-start-line="5" selection-start-column="984" selection-end-line="5" selection-end-column="984" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/invited_talks/wce_placement_talk_2018_card.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1236" lean-forward="true" selection-start-line="5" selection-start-column="1236" selection-end-line="5" selection-end-column="1236" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/service_outreach/weekly_club_service_card.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="601" selection-start-line="5" selection-start-column="601" selection-end-line="5" selection-end-column="601" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/service_outreach/acses_gim_card.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -75,37 +64,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/so_contributions_card.json">
+        <entry file="file://$PROJECT_DIR$/invited_talks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="-840" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_card.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4616" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="4616" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_7.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_card.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="3904" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="3904" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_8.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_9.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_10.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_11.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-296" />
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -127,6 +123,9 @@
       <find>competitiv</find>
       <find>Myself</find>
       <find>class='m-4'</find>
+      <find>class='cell-6'</find>
+      <find>cell-6</find>
+      <find>marketin</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,16 +152,17 @@
         <option value="$PROJECT_DIR$/data/service_outreach/weekly_club_service.json" />
         <option value="$PROJECT_DIR$/data/sitac/sitac_2016_card.json" />
         <option value="$PROJECT_DIR$/data/service_outreach/sitac_card.json" />
-        <option value="$PROJECT_DIR$/data/service_outreach/weekly_club_service_card.json" />
         <option value="$PROJECT_DIR$/data/sitac/sitac_2017_card.json" />
         <option value="$PROJECT_DIR$/mentorship.html" />
         <option value="$PROJECT_DIR$/certifications.html" />
         <option value="$PROJECT_DIR$/sitac.html" />
         <option value="$PROJECT_DIR$/serviceoutreach.html" />
         <option value="$PROJECT_DIR$/data/service_outreach/service_outreach.json" />
-        <option value="$PROJECT_DIR$/data/service_outreach/c_workshop_card.json" />
         <option value="$PROJECT_DIR$/data/service_outreach/wce_alumni_meet_card.json" />
         <option value="$PROJECT_DIR$/data/service_outreach/acses_gim_card.json" />
+        <option value="$PROJECT_DIR$/data/invited_talks/wce_placement_talk_2018_card.json" />
+        <option value="$PROJECT_DIR$/data/service_outreach/weekly_club_service_card.json" />
+        <option value="$PROJECT_DIR$/data/service_outreach/c_workshop_card.json" />
       </list>
     </option>
   </component>
@@ -194,11 +194,6 @@
               <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="service_outreach" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,12 +267,12 @@
       <workItem from="1603866724568" duration="11572000" />
       <workItem from="1603955270084" duration="12374000" />
       <workItem from="1604039815712" duration="5973000" />
-      <workItem from="1604053806369" duration="3778000" />
+      <workItem from="1604053806369" duration="8223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91814000" />
+    <option name="totallyTimeSpent" value="96259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="954" extended-state="0" />
@@ -346,21 +341,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/club_service_images/cs_4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/club_service_images/cs_3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1840.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1841.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1846.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1845.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -451,38 +431,10 @@
     <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_8.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sitac.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="66" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/serviceoutreach.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="75" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/sitac_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/weekly_club_service_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -528,13 +480,6 @@
     <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_11.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/service_outreach/service_outreach.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -549,10 +494,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sitac.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="66" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/sitac_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/service_outreach/wce_alumni_meet_card.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-end-line="8" />
+        <state relative-caret-position="75">
+          <caret line="5" column="1258" selection-start-line="5" selection-start-column="1252" selection-end-line="5" selection-end-column="1258" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4616" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="4616" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3904" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="3904" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/invited_talks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/invited_talks/wce_placement_talk_2018_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1236" lean-forward="true" selection-start-line="5" selection-start-column="1236" selection-end-line="5" selection-end-column="1236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/weekly_club_service_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="601" selection-start-line="5" selection-start-column="601" selection-end-line="5" selection-end-column="601" />
         </state>
       </provider>
     </entry>
@@ -560,6 +564,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="984" selection-start-line="5" selection-start-column="984" selection-end-line="5" selection-end-column="984" />
         </state>
       </provider>
     </entry>
