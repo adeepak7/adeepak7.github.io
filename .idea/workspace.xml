@@ -2,49 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/club_service_images/cs_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/club_service_images/cs_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/club_service_images/cs_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/club_service_images/cs_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/club_service_images/cs_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/club_service_images/cs_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/club_service_images/cs_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/club_service_images/cs_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/club_service_images/cs_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/sangli_first_fair_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/sangli_first_images/sangli_first_poster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/sangli_first_images/sangli_first_team.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/sangli_first_images/sf_chief_guests.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/sangli_first_images/sf_ground.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/sangli_first_images/sf_inauguration.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/sangli_first_images/skp_address_people.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/service_outreach.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/so_contributions_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/service_outreach/weekly_club_service_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1475.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sangli_first_logo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sitac/sitac.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2016_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2016_card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1842.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1842.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1843.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1843.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1844.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1844.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1845.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1845.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1846.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1846.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_general_info_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/service_outreach/sitac_card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceoutreach.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceoutreach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/service_outreach/c_workshop_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_card.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,15 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1379" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="1379" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_10.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -75,51 +25,48 @@
         <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_card.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="261" selection-start-line="5" selection-start-column="261" selection-end-line="5" selection-end-column="261" />
+              <caret line="5" column="686" selection-start-line="5" selection-start-column="686" selection-end-line="5" selection-end-column="686" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/service_outreach.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sf_ground.jpg">
+        <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_2.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sf_inauguration.jpg">
+        <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_3.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sf_chief_guests.jpg">
+        <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_4.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sangli_first_team.jpg">
+        <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_5.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_fair_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="2236" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="2236" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_6.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_7.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_9.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_8.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -188,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,12 +157,20 @@
               <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="service_outreach" type="462c0819:PsiDirectoryNode" />
+              <item name="c_workshop_images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="sitac" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,12 +237,13 @@
       <workItem from="1603733306008" duration="3705000" />
       <workItem from="1603778305635" duration="3321000" />
       <workItem from="1603866724568" duration="11572000" />
-      <workItem from="1603955270084" duration="12312000" />
+      <workItem from="1603955270084" duration="12374000" />
+      <workItem from="1604039815712" duration="2405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82001000" />
+    <option name="totallyTimeSpent" value="84468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="954" extended-state="0" />
@@ -430,13 +385,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_images/DSC_1454.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -512,6 +460,46 @@
     <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_images/DSC_1843.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1379" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="1379" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sf_ground.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sf_inauguration.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sf_chief_guests.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sangli_first_team.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_fair_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2236" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="2236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/service_outreach.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -533,52 +521,19 @@
     <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_7.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_8.jpg">
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_10.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_9.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2017_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1379" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="1379" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_10.jpg">
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_8.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sf_ground.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sf_inauguration.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sf_chief_guests.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sangli_first_team.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/service_outreach.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_fair_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="2236" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="2236" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_card.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="261" selection-start-line="5" selection-start-column="261" selection-end-line="5" selection-end-column="261" />
+          <caret line="5" column="686" selection-start-line="5" selection-start-column="686" selection-end-line="5" selection-end-column="686" />
         </state>
       </provider>
     </entry>
