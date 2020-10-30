@@ -1,66 +1,41 @@
-<div class="row m-3">
+<div class="row m-1">
+
+    <div class="cell-lg-3 cell-md-6">
+        <div class="mt-1">
+
+            <ul id="index" data-tabs-position="vertical h-100" data-role="tabs" data-tabs-type="group" data-expand="true" data-on-tab="loadContents">
+                <li><a class="d-flex flex-justify-start" href="#"></a></li>
+            </ul>
+
+        </div>
+    </div>
 
     <div class="cell-lg-9 cell-md-6">
-
-        <div id="certification-window" class="window" style="width:100%">
-
+        <div id="question" class="window mt-1" style="width:100%">
             <div class="window-caption">
-                <span id="card-title" class="title">Certifications</span>
+                <span id="card-title" class="title"></span>
             </div>
+            <div class="window-content p-1 d-flex">
 
-            <div class="window-content p-1 d-flex flex-justify-end">
+                <div id="card-content" class="mr-auto text-small" style="width: 100%">
 
-                <div id="card-content" class="mr-auto text-small">
+                    <div class="card">
 
-                    <!--Main content goes here in form a card list-->
-
-                        <div class="card">
-
-                            <div class="card-header">
-                                <div class="avatar">
-                                    <img src="https://scontent.fbom2-1.fna.fbcdn.net/v/t1.0-1/p320x320/50580467_1617986761679486_2629052737190363136_o.jpg?_nc_cat=103&_nc_sid=1eb0c7&_nc_ohc=2RcK_RH1VXsAX9RkbQD&_nc_ht=scontent.fbom2-1.fna&_nc_tp=6&oh=372cc8c49643bc8f9c0780cdcfde7c64&oe=5F5C0D31">
-                                </div>
-                                <div class="name">Personality Advancement Circle of Engineers (PACE), WCE - Placement Talk 2018 </div>
-                                <div class="date">Monday at 3:47 PM</div>
+                        <div class="card-header">
+                            <div class="avatar">
+                                <img id="card-logo" src="images/wce_logo.png">
                             </div>
+                            <div id="card-name" class="name"></div>
+                            <div id="card-date" class="date"></div>
+                        </div>
 
-                            <div class="card-content">
+                        <div id="card-body" class="card-content">
 
-                                <div class='row m-2'>
-
-                                    <ul>
-                                        <li><strong>Project Coordinator:</strong> <a href="https://www.linkedin.com/in/kiran-kamble-a77163110/" target="_blank" rel="noopener noreferrer"><strong>Prof. Kiran Kamble.</strong></a></li>
-                                        <li><strong>Project Outline:</strong> <a href="https://drive.google.com/file/d/14cYqSFr6APa_Hkw6kYozgwZBwWDqD4RN/view?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>Progress as of August 2020.</strong></a></li>
-                                        <li><strong>Software Solution:</strong> <a href="https://drive.google.com/file/d/1eyrLCWXbKl-jk1dwLwSD8134Xdg0Wpdb/view?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>Architecture.</strong></a></li>
-                                        <li>I am currently working with Prof.  Kiran Kamble’s with a team of 11 members to design and implement the WCE visitor management software.</li>
-                                        <li>
-                                            <strong>My Mentees:</strong>
-                                            <ul>
-                                                <li><a href="https://www.linkedin.com/in/kunal-patrikar-497068162/" target="_blank" rel="noopener noreferrer">Kunal Patrikar</a></li>
-                                                <li><a href="https://www.linkedin.com/in/suyashc/" target="_blank" rel="noopener noreferrer">Suyash Chavan</a></li>
-                                                <li><a href="https://www.linkedin.com/in/sanket-sonawane-752b00193/" target="_blank" rel="noopener noreferrer">Sanket Sonawane</a></li>
-                                                <li><a href="https://www.linkedin.com/in/nishi-bhate-11823816a/" target="_blank" rel="noopener noreferrer">Nishi Bhate</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
-
-                            </div>
-
-                            <div class="card-content fg-gray p-2">
-                                <span><small>Likes: </small>112</span>
-                                <span><small>Comments: </small>43</span>
-                            </div>
-
-                            <div class="card-footer">
-                                <button class="flat-button mif-thumbs-up mif-2x"></button>
-                                <button class="flat-button mif-tag mif-2x"></button>
-                                <button class="flat-button mif-share mif-2x"></button>
-                            </div>
+                            <!-- Find card body from the body key of the specific cards-->
 
                         </div>
 
-                    <!-- End of the card list-->
+                    </div>
 
                 </div>
 
@@ -68,11 +43,102 @@
 
             </div>
         </div>
-
     </div>
+
 </div>
 
 <script>
 
-</script>
+    /*
+        Globals
+     */
 
+    $.ajaxSetup({ cache: false });
+
+    function loadIndex(){
+
+        const dataPath = "data/mentorship/mentorship.json";
+
+        //Important in case of multiple events fired
+        $("#index").empty();
+
+        $.getJSON(dataPath)
+            .done(function(data){
+                console.log(data);
+
+                for(let i=0;i<data.index.length;i++){
+                    let listId = data.index_id[i];
+                    let listItem = "<li id=" + listId + "><a class=\"d-flex flex-justify-start text-secondary\" href=\"#\">" + data.index[i] +"</a></li>";
+                    $("#index").append(listItem);
+                }
+
+                //First Index Item
+                let firstIndexItem = data.index_id[0];
+                console.log("First Index Item:", firstIndexItem);
+                loadCustomContents(firstIndexItem);
+
+            }).fail(function () {
+
+        })
+    }
+
+    loadIndex();
+
+
+    function loadCustomContents(tab){
+        console.log("Request to load custom content received", tab);
+        const dataPath = "data/mentorship/" + tab + "_card.json";
+
+        $.getJSON(dataPath)
+            .done(function(data){
+                console.log(data);
+
+                let card_body = data.body;
+                document.getElementById("card-body").innerHTML = JSON.parse(JSON.stringify(card_body));
+
+                let card_title = data.title;
+                document.getElementById("card-title").innerHTML = card_title;
+
+                let card_logo = data.logo;
+                document.getElementById("card-logo").src = card_logo;
+
+                let card_name = data.name;
+                document.getElementById("card-name").innerHTML = JSON.parse(JSON.stringify(card_name));
+
+                let card_date = data.date;
+                document.getElementById("card-date").innerHTML = card_date;
+
+            }).fail(function () {
+
+        })
+    }
+
+    function loadContents(tab){
+        console.log("Request to load content received", tab.id);
+        const dataPath = "data/mentorship/" + tab.id + "_card.json";
+
+        $.getJSON(dataPath)
+            .done(function(data){
+                console.log(data);
+
+                let card_body = data.body;
+                document.getElementById("card-body").innerHTML = JSON.parse(JSON.stringify(card_body));
+
+                let card_title = data.title;
+                document.getElementById("card-title").innerHTML = card_title;
+
+                let card_logo = data.logo;
+                document.getElementById("card-logo").src = card_logo;
+
+                let card_name = data.name;
+                document.getElementById("card-name").innerHTML = JSON.parse(JSON.stringify(card_name));
+
+                let card_date = data.date;
+                document.getElementById("card-date").innerHTML = card_date;
+
+            }).fail(function () {
+
+        })
+    }
+
+</script>

@@ -60,11 +60,19 @@
         const dataPath = "data/service_outreach/service_outreach.json";
 
         //Important in case of multiple events fired
-        $("#index").empty();
+        if ($('#index').children().length > 0 ) {
+            console.log('Index not empty');
+            $("#index").empty();
+        }
 
         $.getJSON(dataPath)
             .done(function(data){
                 //console.log(data);
+
+                if ($('#index').children().length > 0 ) {
+                    console.log('Index not empty');
+                    $("#index").empty();
+                }
 
                 for(let i=0;i<data.index.length;i++){
                     let listId = data.index_id[i];

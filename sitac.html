@@ -60,14 +60,18 @@
         const dataPath = "data/sitac/sitac.json";
 
         //Important in case of multiple events fired
-        $("#index").empty();
+
+        if ($('#index').children().length > 0 ) {
+            console.log('Index not empty');
+            $("#index").empty();
+        }
 
         $.getJSON(dataPath)
             .done(function(data){
                 //console.log(data);
 
-                if ($('#index').is(':empty') == false) {
-
+                if ($('#index').children().length > 0 ) {
+                    console.log('Index not empty');
                     $("#index").empty();
                 }
 

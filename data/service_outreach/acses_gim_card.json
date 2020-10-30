@@ -1,0 +1,8 @@
+{
+  "title": "General Interest Meet by ACSES",
+  "logo": "images/acses_logo.png",
+  "name": "General Interest Meet by ACSES",
+  "date": "Organized every year",
+  "body": "<div class='row m-2'><div style=\"text-align: center;\"><img style='width: 80%' src=\"data/service_outreach/acses_gim_images/gim_poster.jpg\" alt=\"ACSES GIM Poster\" /></div><div class=\"m-2 mt-4\">ACSES organizes an <strong>General Interest Meet</strong> every year for Computer Science and Engineering students, to get them acquainted with ACSES. <strong>At the meeting, we explain:</strong><ul><li>The purpose of the club and what it is really about.</li><li>The goals for the organization and what you want to accomplish during the year.</li><li>What the time commitment will be for the group.</li><li>Events you would like to hold.</li></ul></div></div>",
+  "footer": ""
+}

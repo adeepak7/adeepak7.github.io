@@ -1,6 +1,6 @@
 {
-  "index": ["Social IT Awareness Campaign", "Stack Overflow Contributions", "Sangli First Entrepreneurship Fair 2018", "Weekly Club Service", "C Workshop","ACSES General Interest Meet", "WCE Alumni Meet", "ACSES Genesis Event"],
+  "index": ["Social IT Awareness Campaign", "Stack Overflow Contributions", "Sangli First Entrepreneurship Fair 2018", "Weekly Club Service", "C Workshop", "WCE Alumni Meet", "ACSES General Interest Meet"],
 
-  "index_id": ["sitac", "so_contributions", "sangli_first_fair", "weekly_club_service", "c_workshop", "acses_gim", "wce_alumni_meet", "acses_genesis_event"]
+  "index_id": ["sitac", "so_contributions", "sangli_first_fair", "weekly_club_service", "c_workshop", "wce_alumni_meet", "acses_gim"]
 
 }
