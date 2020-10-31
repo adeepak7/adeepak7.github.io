@@ -53,6 +53,11 @@
         Globals
      */
 
+    var toastOptions = {
+        showTop: true,
+        timeout: 10000
+    };
+
     $.ajaxSetup({ cache: false });
 
     function loadIndex(){
@@ -125,6 +130,9 @@
     }
 
     function loadContents(tab){
+
+        Metro.toast.create("Kindly consider refreshing the page (Press Crtl+R) if content takes more than 3 seconds to load.", null, null, "success", toastOptions);
+
         //console.log("Request to load content received", tab.id);
         const dataPath = "data/sitac/" + tab.id + "_card.json";
 
@@ -151,5 +159,8 @@
 
         })
     }
+
+
+    Metro.toast.create("Kindly consider refreshing the page (Press Crtl+R) if content takes more than 3 seconds to load.", null, null, "success", toastOptions);
 
 </script>
