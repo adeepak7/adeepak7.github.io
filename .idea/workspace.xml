@@ -2,8 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/technical_events/algo_elite_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/algo_elite_images/algo_elite_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/cf_17_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/cf_18_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/cf_1_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/cf_2_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/cf_3_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/code_wizard_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/code_wizard_images/code_wizard_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/codefusion_images/cf_1_poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/codefusion_images/cf_2_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/codefusion_images/cf_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_gf_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN3102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN3318.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN3319.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN3320.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN3324.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN3333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN3349.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN3416.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN3417.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN3418.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN3652.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN4252.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN4462.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/Instructions_GOC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/Login_GOC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/Score_GOC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/Timer_GOC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/goc_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/goc_poster_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_r2_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/technical_events/technical_events.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vision_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technical_events.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitac.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitac.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,87 +53,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3102.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/technical_events/goc_r2_card.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="931" selection-start-line="5" selection-start-column="931" selection-end-line="5" selection-end-column="931" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sitac.html">
+        <entry file="file://$PROJECT_DIR$/data/technical_events/technical_events.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="133" column="108" selection-start-line="133" selection-start-column="108" selection-end-line="133" selection-end-column="108" />
+            <state relative-caret-position="45">
+              <caret line="3" column="104" selection-start-line="3" selection-start-column="104" selection-end-line="3" selection-end-column="104" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/serviceoutreach.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="63" column="33" lean-forward="true" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mentorship.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="24" column="54" lean-forward="true" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/invited_talks.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1935">
-              <caret line="129" column="18" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/mentorship/mentorship.json">
+        <entry file="file://$PROJECT_DIR$/data/technical_events/goc_gf_card.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <caret line="5" column="942" selection-start-line="5" selection-start-column="942" selection-end-line="5" selection-end-column="942" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/so_contributions_card.json">
+        <entry file="file://$PROJECT_DIR$/data/technical_events/cf_2_card.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service_outreach/wce_alumni_meet_card.json">
+        <entry file="file://$PROJECT_DIR$/data/technical_events/cf_3_card.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="2617" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="2617" />
+              <caret line="5" column="880" selection-start-line="5" selection-start-column="880" selection-end-line="5" selection-end-column="880" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/technical_events/cf_17_card.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="898" selection-start-line="5" selection-start-column="898" selection-end-line="5" selection-end-column="898" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/technical_events/cf_18_card.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/technical_events/code_wizard_card.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/technical_events/cf_1_card.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="838" selection-start-line="5" selection-start-column="838" selection-end-line="5" selection-end-column="838" />
             </state>
           </provider>
         </entry>
@@ -124,6 +162,7 @@
       <find>class='cell-6'</find>
       <find>cell-6</find>
       <find>marketin</find>
+      <find>26th</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -158,21 +197,33 @@
         <option value="$PROJECT_DIR$/invited_talks.html" />
         <option value="$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json" />
         <option value="$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals.json" />
-        <option value="$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json" />
         <option value="$PROJECT_DIR$/data/mentorship/mentor_to_coding_expert_card.json" />
         <option value="$PROJECT_DIR$/data/mentorship/mock_interviews_card.json" />
         <option value="$PROJECT_DIR$/data/mentorship/mentorship.json" />
         <option value="$PROJECT_DIR$/data/mentorship/interviews_card.json" />
         <option value="$PROJECT_DIR$/mentorship.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sitac.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/technical_events.html" />
+        <option value="$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json" />
+        <option value="$PROJECT_DIR$/data/technical_events/cf_18_card.json" />
+        <option value="$PROJECT_DIR$/data/technical_events/algo_elite_card.json" />
+        <option value="$PROJECT_DIR$/data/technical_events/code_wizard_card.json" />
+        <option value="$PROJECT_DIR$/data/technical_events/cf_3_card.json" />
+        <option value="$PROJECT_DIR$/data/technical_events/goc_gf.json" />
+        <option value="$PROJECT_DIR$/data/technical_events/goc_r2_card.json" />
+        <option value="$PROJECT_DIR$/data/technical_events/goc_gf_card.json" />
+        <option value="$PROJECT_DIR$/data/technical_events/cf_2_card.json" />
+        <option value="$PROJECT_DIR$/data/technical_events/cf_1_card.json" />
+        <option value="$PROJECT_DIR$/data/technical_events/cf_17_card.json" />
+        <option value="$PROJECT_DIR$/data/technical_events/technical_events.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="954" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -187,6 +238,34 @@
               <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="mentorship" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="service_outreach" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="technical_events" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -197,21 +276,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/mentorship/mock_interview_images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/technical_events/codefusion_images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/data/mentorship/mock_interview_images" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/data/service_outreach/acses_gim_images" />
-      <recent name="$PROJECT_DIR$/data/service_outreach/alumni_meet" />
-      <recent name="$PROJECT_DIR$/data/service_outreach/c_workshop_images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data/service_outreach" />
       <recent name="$PROJECT_DIR$/data/invited_talks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/technical_events/codefusion_images" />
+      <recent name="$PROJECT_DIR$/data/technical_events/goc_images" />
+      <recent name="$PROJECT_DIR$/data/technical_events/code_wizard_images" />
+      <recent name="$PROJECT_DIR$/data/technical_events/algo_elite_images" />
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -260,15 +340,15 @@
       <workItem from="1603955270084" duration="12374000" />
       <workItem from="1604039815712" duration="5973000" />
       <workItem from="1604053806369" duration="11929000" />
-      <workItem from="1604126555070" duration="4895000" />
+      <workItem from="1604126555070" duration="14151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104860000" />
+    <option name="totallyTimeSpent" value="114116000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="954" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
@@ -283,7 +363,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32946634" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49849308" visible="true" weight="0.32946634" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49849308" visible="true" weight="0.33216375" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015069" side_tool="true" weight="0.32946634" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -337,149 +417,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_images/sangli_first_team.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/sangli_first_fair_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="2236" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="2236" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_10.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/certifications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="143" column="9" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_7.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_9.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_images/cw_8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_2.jpg" />
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_4.jpg" />
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_12.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_14.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_15.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_7.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_9.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_10.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/alumni_meet_images/am_11.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/service_outreach.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="204" selection-start-line="1" selection-start-column="204" selection-end-line="1" selection-end-column="204" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4616" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="4616" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3904" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="3904" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-296" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/invited_talks/wce_placement_talk_2018_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1236" lean-forward="true" selection-start-line="5" selection-start-column="1236" selection-end-line="5" selection-end-column="1236" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/acses_gim_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="984" selection-start-line="5" selection-start-column="984" selection-end-line="5" selection-end-column="984" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/weekly_club_service_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="601" selection-start-line="5" selection-start-column="601" selection-end-line="5" selection-end-column="601" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -495,13 +432,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/mentorship/mock_interviews_card.json" />
-    <entry file="file://$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/mentorship/mentor_to_coding_expert_card.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -537,13 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/service_outreach/wce_alumni_meet_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="2617" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="2617" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -558,13 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/serviceoutreach.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="63" column="33" lean-forward="true" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mentorship.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -576,17 +492,193 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2206" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="24" column="54" lean-forward="true" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+        <state relative-caret-position="152">
+          <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sitac.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="133" column="108" selection-start-line="133" selection-start-column="108" selection-end-line="133" selection-end-column="108" />
+        <state relative-caret-position="36">
+          <caret line="142" column="42" selection-end-line="165" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceoutreach.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="27" lean-forward="true" selection-end-line="151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/technical_events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="59" column="64" selection-start-line="59" selection-start-column="64" selection-end-line="59" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/algo_elite_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="968" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/wce_alumni_meet_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2617" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="2617" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN4402.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN4403.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3323.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3338.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3318.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3319.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3320.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3324.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3333.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3349.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3416.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3417.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3418.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3652.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN4252.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN4462.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/goc_poster.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/Instructions_GOC.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/Login_GOC.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/Score_GOC.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/Timer_GOC.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3102.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/cf_1_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="838" selection-start-line="5" selection-start-column="838" selection-end-line="5" selection-end-column="838" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/cf_2_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/cf_3_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="880" selection-start-line="5" selection-start-column="880" selection-end-line="5" selection-end-column="880" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/cf_17_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="898" selection-start-line="5" selection-start-column="898" selection-end-line="5" selection-end-column="898" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/cf_18_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/code_wizard_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_gf_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="942" selection-start-line="5" selection-start-column="942" selection-end-line="5" selection-end-column="942" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_r2_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="931" selection-start-line="5" selection-start-column="931" selection-end-line="5" selection-end-column="931" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/technical_events/technical_events.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="104" selection-start-line="3" selection-start-column="104" selection-end-line="3" selection-end-column="104" />
         </state>
       </provider>
     </entry>
