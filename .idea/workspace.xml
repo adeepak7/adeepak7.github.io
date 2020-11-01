@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/certifications/ccdsap_al_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/ccdsap_fl_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/certifications.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/efset_english_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/elements_of_ai_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/hackerrank_java_bl_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/hackerrank_java_il_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/hackerrank_js_bl_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/hackerrank_ps_bl_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/hackerrank_ps_il_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/hackerrank_rest_api_il_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/ibm_python_101_for_ds_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/icpcid_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/kaggle_python_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/npat_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/pshw_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/DSCN3339.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cognitive_class_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/efset_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/interweave_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kaggle_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nptel_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/university_of_helsinki_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/achievements.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/certifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/certifications.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitac.html" beforeDir="false" afterPath="$PROJECT_DIR$/sitac.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,15 +18,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/certifications/certifications.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="347" selection-start-line="1" selection-start-column="298" selection-end-line="1" selection-end-column="347" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/certifications/pshw_card.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -59,6 +27,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/certifications.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sitac.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="93" column="51" selection-start-line="93" selection-start-column="51" selection-end-line="93" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/technical_events.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="76" column="44" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/serviceoutreach.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-791" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mentorship.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-907" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/invited_talks.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-805" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/certifications/npat_card.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -68,39 +84,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/certifications/ccdsap_al_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1350" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/certifications/ccdsap_fl_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="992" selection-start-line="5" selection-start-column="992" selection-end-line="5" selection-end-column="992" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/certifications/icpcid_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="864" selection-start-line="5" selection-start-column="864" selection-end-line="5" selection-end-column="864" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="179" selection-start-line="7" selection-start-column="179" selection-end-line="7" selection-end-column="179" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/achievements.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -108,24 +93,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="1" lean-forward="true" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/certifications/ibm_python_101_for_ds_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="27" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/certifications/hackerrank_ps_bl_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="868" selection-start-line="5" selection-start-column="868" selection-end-line="5" selection-end-column="868" />
             </state>
           </provider>
         </entry>
@@ -180,7 +147,6 @@
         <option value="$PROJECT_DIR$/data/mentorship/mentorship.json" />
         <option value="$PROJECT_DIR$/data/mentorship/interviews_card.json" />
         <option value="$PROJECT_DIR$/mentorship.html" />
-        <option value="$PROJECT_DIR$/sitac.html" />
         <option value="$PROJECT_DIR$/technical_events.html" />
         <option value="$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json" />
         <option value="$PROJECT_DIR$/data/technical_events/cf_18_card.json" />
@@ -194,7 +160,6 @@
         <option value="$PROJECT_DIR$/data/technical_events/cf_1_card.json" />
         <option value="$PROJECT_DIR$/data/technical_events/cf_17_card.json" />
         <option value="$PROJECT_DIR$/data/technical_events/technical_events.json" />
-        <option value="$PROJECT_DIR$/certifications.html" />
         <option value="$PROJECT_DIR$/data/certifications/elements_of_ai_card.json" />
         <option value="$PROJECT_DIR$/data/certifications/hackerrank_rest_api_il_card.json" />
         <option value="$PROJECT_DIR$/data/certifications/hackerrank_java_il_card.json" />
@@ -213,6 +178,8 @@
         <option value="$PROJECT_DIR$/data/certifications/icpc_card.json" />
         <option value="$PROJECT_DIR$/data/certifications/pshw_card.json" />
         <option value="$PROJECT_DIR$/data/certifications/npat_card.json" />
+        <option value="$PROJECT_DIR$/sitac.html" />
+        <option value="$PROJECT_DIR$/certifications.html" />
       </list>
     </option>
   </component>
@@ -232,22 +199,6 @@
             <path>
               <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="certifications" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -325,12 +276,12 @@
       <workItem from="1604039815712" duration="5973000" />
       <workItem from="1604053806369" duration="11929000" />
       <workItem from="1604126555070" duration="18273000" />
-      <workItem from="1604215637174" duration="4676000" />
+      <workItem from="1604215637174" duration="5150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122914000" />
+    <option name="totallyTimeSpent" value="123388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="954" extended-state="6" />
@@ -402,22 +353,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3338.jpg" />
-    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3318.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3319.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3320.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3324.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3333.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/DSCN3349.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -517,13 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="104" selection-start-line="3" selection-start-column="104" selection-end-line="3" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/certifications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -670,6 +598,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="746" selection-start-line="5" selection-start-column="746" selection-end-line="5" selection-end-column="746" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/achievements.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitac.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="93" column="51" selection-start-line="93" selection-start-column="51" selection-end-line="93" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/technical_events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="76" column="44" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serviceoutreach.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-791" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mentorship.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-907" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/invited_talks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-805" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/certifications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
         </state>
       </provider>
     </entry>
