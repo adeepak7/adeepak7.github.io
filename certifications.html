@@ -73,7 +73,7 @@
                     //console.log('Index not empty');
                     $("#index").empty();
                 }
-                
+
                 for(let i=0;i<data.index.length;i++){
                     let listId = data.index_id[i];
                     let listItem = "<li id=" + listId + "><a class=\"d-flex flex-justify-start text-secondary\" href=\"#\">" + data.index[i] +"</a></li>";
@@ -99,7 +99,7 @@
 
         $.getJSON(dataPath)
             .done(function(data){
-                console.log(data);
+                //console.log(data);
 
                 let card_body = data.body;
                 document.getElementById("card-body").innerHTML = JSON.parse(JSON.stringify(card_body));
