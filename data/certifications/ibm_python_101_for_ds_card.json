@@ -1,0 +1,8 @@
+{
+  "title": "Python 101 for Data Science",
+  "logo": "images/cognitive_class_logo.png",
+  "name": "Python 101 for Data Science",
+  "date": "July 2020",
+  "body": "<div class='row m-2'><div class='m-2' style=\"width:100%;\"><div><a href='' target='_blank' rel='noopener noreferer'>Python 101 for Data Science</a></div><div></div><div><ul> <li><strong>Topics Covered: </strong>Types, Expressions and Variables, String Operations, Lists and Tuples, Sets, Dictionaries, Conditions and Branching, Loops, Functions, Objects and Classes, Reading files with open, Writing files with open, Loading data with Pandas, Working with and Saving data with Pandas.</li><li><strong>Issuing Organization: </strong><a href='https://cognitiveclass.ai/' target='_blank' rel='noopener noreferer'>IBM Cognitive Class</a></li> <li><strong>Issuing Date: </strong>July 2020.</li><li><strong>Credential ID: </strong> 1346e0cfbae547528d904fa022e71f35.</li><li><strong>Credential URL: <a href='https://courses.cognitiveclass.ai/certificates/1346e0cfbae547528d904fa022e71f35' target='_blank' rel='noopener noreferer'>Verify Certification</a></strong></li></ul></div></div></div>",
+  "footer": ""
+}

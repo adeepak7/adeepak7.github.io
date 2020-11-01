@@ -1,6 +1,6 @@
 <div class="row m-1">
 
-    <div class="cell-lg-3 cell-md-6">
+    <div class="cell-lg-6 cell-md-6">
         <div class="mt-1">
 
             <ul id="index" data-tabs-position="vertical h-100" data-role="tabs" data-tabs-type="group" data-expand="true" data-on-tab="loadContents">
@@ -10,7 +10,7 @@
         </div>
     </div>
 
-    <div class="cell-lg-9 cell-md-6">
+    <div class="cell-lg-6 cell-md-6">
         <div id="question" class="window mt-1" style="width:100%">
             <div class="window-caption">
                 <span id="card-title" class="title"></span>
@@ -57,7 +57,7 @@
 
     function loadIndex(){
 
-        const dataPath = "data/mentorship/mentorship.json";
+        const dataPath = "data/certifications/certifications.json";
 
         //Important in case of multiple events fired
         $("#index").empty();
@@ -87,7 +87,7 @@
 
     function loadCustomContents(tab){
         console.log("Request to load custom content received", tab);
-        const dataPath = "data/mentorship/" + tab + "_card.json";
+        const dataPath = "data/certifications/" + tab + "_card.json";
 
         $.getJSON(dataPath)
             .done(function(data){
@@ -115,7 +115,7 @@
 
     function loadContents(tab){
         console.log("Request to load content received", tab.id);
-        const dataPath = "data/mentorship/" + tab.id + "_card.json";
+        const dataPath = "data/certifications/" + tab.id + "_card.json";
 
         $.getJSON(dataPath)
             .done(function(data){
