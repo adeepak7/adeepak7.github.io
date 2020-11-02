@@ -1,5 +1,5 @@
 {
-  "index": ["Algo Elite 0010", "CodeFusion 18.1", "Code Wizard Wild Card", "CodeFusion 17.1", "CodeFusion 3", "Game Of Codes Grand Finale", "Game Of Codes Round 2", "CodeFusion 2", "CodeFusion 1"],
+  "index": ["Game Of Codes Grand Finale", "Algo Elite 0010", "CodeFusion 18.1", "Code Wizard Wild Card", "CodeFusion 17.1", "CodeFusion 3", "Game Of Codes Round 2", "CodeFusion 2", "CodeFusion 1"],
 
-  "index_id": ["algo_elite", "cf_18", "code_wizard", "cf_17", "cf_3", "goc_gf", "goc_r2", "cf_2", "cf_1"]
+  "index_id": ["goc_gf", "algo_elite", "cf_18", "code_wizard", "cf_17", "cf_3", "goc_r2", "cf_2", "cf_1"]
 }
