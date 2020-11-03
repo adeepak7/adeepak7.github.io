@@ -57,7 +57,7 @@
 
     function loadIndex(){
 
-        const dataPath = "data/fundings/fundings.json";
+        const dataPath = "data/fundings_received/fundings_received.json";
 
         //Important in case of multiple events fired
         if ($('#index').children().length > 0 ) {
@@ -95,7 +95,7 @@
 
     function loadCustomContents(tab){
         //console.log("Request to load custom content received", tab);
-        const dataPath = "data/fundings/" + tab + "_card.json";
+        const dataPath = "data/fundings_received/" + tab + "_card.json";
 
         $.getJSON(dataPath)
             .done(function(data){
@@ -123,7 +123,7 @@
 
     function loadContents(tab){
         //console.log("Request to load content received", tab.id);
-        const dataPath = "data/fundings/" + tab.id + "_card.json";
+        const dataPath = "data/fundings_received/" + tab.id + "_card.json";
 
         $.getJSON(dataPath)
             .done(function(data){
