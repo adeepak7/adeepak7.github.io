@@ -2,45 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/achievements/achievements_images/cf_1_winner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/achievements/achievements_images/cyberknight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/achievements/achievements_images/fy_scholarship.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/DSC_1757.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/MOV_1721.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/MOV_1748.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/acrobots_sand_structure.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/after_building_sand_structure.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/after_team_dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/amrita_uni_name_template.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/amritanandmayi_ashram.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/amritapuri_beach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/amritapuri_private_beach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/anand_enjoying_beach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/codechef_tshirt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/enjoying_the beach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/icpc_balloons.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/icpc_coding_arena.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/icpc_coding_arena_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/icpc_id_card.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/icpc_name_template.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/icpc_team_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/icpc_team_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/journey_starts_at_chiplun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/oj_enjoying_beach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/praveen_and_triveni.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/returning_home.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/team_photo_chiplun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/team_photo_on_backwaters_bridge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/team_room.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/team_selfie_at_beach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/techumen_1560_participants.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/technical_events/goc_images/techumen_poster.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/achievements/achievements.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/achievements/achievements.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/achievements/cf_1_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/achievements/cf_1_card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/achievements/cyber_knight_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/achievements/cyber_knight_card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/achievements/fy_scholarship_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/achievements/fy_scholarship_card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/service_outreach/c_workshop_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/service_outreach/c_workshop_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,26 +23,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="114" column="35" selection-start-line="114" selection-start-column="35" selection-end-line="114" selection-end-column="35" />
+            <state relative-caret-position="214">
+              <caret line="75" column="20" lean-forward="true" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/achievements/cyber_knight_card.json">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="991" selection-start-line="5" selection-start-column="991" selection-end-line="5" selection-end-column="991" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/achievements/fy_scholarship_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="941" selection-start-line="5" selection-start-column="941" selection-end-line="5" selection-end-column="941" />
+            <state relative-caret-position="227">
+              <caret line="107" column="26" lean-forward="true" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -102,11 +57,26 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_card.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="679" selection-start-line="5" selection-start-column="679" selection-end-line="5" selection-end-column="679" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publications.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-509">
+              <caret line="150" column="30" selection-start-line="150" selection-start-column="30" selection-end-line="150" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,7 +112,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>team</find>
       <find>competitiv</find>
       <find>Myself</find>
       <find>class='m-4'</find>
@@ -172,6 +141,7 @@
       <find>cyber</find>
       <find>softa</find>
       <find>endown</find>
+      <find>a href=''</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -180,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/achievements/sm_university_codesprint_2_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/bm_hourrank_17_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/c_cipher_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/sm_world_codesprint_9_card.json" />
@@ -205,7 +174,6 @@
         <option value="$PROJECT_DIR$/data/achievements/bm_woc_20_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/dsofta_card.json" />
         <option value="$PROJECT_DIR$/data/publications/publications.json" />
-        <option value="$PROJECT_DIR$/publications.html" />
         <option value="$PROJECT_DIR$/data/service_outreach/so_contributions_card.json" />
         <option value="$PROJECT_DIR$/data/sitac/sitac.json" />
         <option value="$PROJECT_DIR$/data/sitac/sitac_2016_card.json" />
@@ -231,6 +199,8 @@
         <option value="$PROJECT_DIR$/data/achievements/fy_scholarship_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/cf_1_card.json" />
         <option value="$PROJECT_DIR$/data/service_outreach/c_workshop_card.json" />
+        <option value="$PROJECT_DIR$/publications.html" />
+        <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
   </component>
@@ -251,17 +221,6 @@
             <path>
               <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="service_outreach" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -345,12 +304,13 @@
       <workItem from="1604337036533" duration="570000" />
       <workItem from="1604341308799" duration="955000" />
       <workItem from="1604391513842" duration="11278000" />
-      <workItem from="1604409073194" duration="2876000" />
+      <workItem from="1604409073194" duration="3372000" />
+      <workItem from="1604517370293" duration="174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160384000" />
+    <option name="totallyTimeSpent" value="161054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="949" extended-state="0" />
@@ -367,8 +327,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32905483" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4972875" visible="true" weight="0.32905483" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32905483" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4972875" weight="0.32905483" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5027125" side_tool="true" weight="0.32905483" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -607,11 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1761" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/fundings_received/convas_card.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -661,19 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/publications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="42" selection-end-line="265" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/fundings_received/fundings_received.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -707,26 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/achievements/achievements_images/fy_scholarship.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/achievements/achievements_images/cyberknight.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/achievements/achievements.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="213" selection-start-line="1" selection-start-column="213" selection-end-line="1" selection-end-column="213" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="114" column="35" selection-start-line="114" selection-start-column="35" selection-end-line="114" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/achievements/cyber_knight_card.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -754,10 +676,50 @@
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/icpc_coding_arena_2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/achievements/achievements_images/fy_scholarship.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/achievements/achievements_images/cyberknight.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/achievements/achievements.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="213" selection-start-line="1" selection-start-column="213" selection-end-line="1" selection-end-column="213" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_card.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="679" selection-start-line="5" selection-start-column="679" selection-end-line="5" selection-end-column="679" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-509">
+          <caret line="150" column="30" selection-start-line="150" selection-start-column="30" selection-end-line="150" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="75" column="20" lean-forward="true" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="107" column="26" lean-forward="true" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
         </state>
       </provider>
     </entry>
