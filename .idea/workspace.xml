@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/service_outreach/sitac_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/service_outreach/sitac_card.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,11 +57,20 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="2924" selection-start-line="5" selection-start-column="2924" selection-end-line="5" selection-end-column="2924" />
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/service_outreach/sitac_card.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -73,11 +82,6 @@
               <caret line="5" column="1035" selection-start-line="5" selection-start-column="1035" selection-end-line="5" selection-end-column="1035" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/achievements/achievements_images/fy_scholarship.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -144,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/achievements/sm_world_codesprint_9_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/sm_woc_28_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/icpc_2016_amritapuri_online_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/icpc_2017_gwalior_online_card.json" />
@@ -195,6 +198,7 @@
         <option value="$PROJECT_DIR$/data/certifications/ccdsap_al_card.json" />
         <option value="$PROJECT_DIR$/data/certifications/ccdsap_fl_card.json" />
         <option value="$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json" />
+        <option value="$PROJECT_DIR$/data/service_outreach/sitac_card.json" />
       </list>
     </option>
   </component>
@@ -224,7 +228,7 @@
               <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="mentorship" type="462c0819:PsiDirectoryNode" />
+              <item name="service_outreach" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -312,12 +316,12 @@
       <workItem from="1604409073194" duration="3372000" />
       <workItem from="1604517370293" duration="1165000" />
       <workItem from="1604591433417" duration="866000" />
-      <workItem from="1604689891317" duration="1110000" />
+      <workItem from="1604689891317" duration="1480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164021000" />
+    <option name="totallyTimeSpent" value="164391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="949" extended-state="0" />
@@ -389,13 +393,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/achievements/bm_woc_24_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/achievements/bm_world_codesprint_4_card.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -713,8 +710,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="2924" selection-start-line="5" selection-start-column="2924" selection-end-line="5" selection-end-column="2924" />
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service_outreach/sitac_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
