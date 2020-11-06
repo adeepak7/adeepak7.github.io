@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/achievements/icpc_2016_amritapuri_onsite_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/achievements/icpc_2016_amritapuri_onsite_card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/certifications/ccdsap_al_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/certifications/ccdsap_al_card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/certifications/ccdsap_fl_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/certifications/ccdsap_fl_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,6 +18,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="60" column="43" lean-forward="true" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/publications.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,25 +52,16 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/techumen_1560_participants.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/achievements/icpc_2016_amritapuri_onsite_card.json">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="1075" selection-start-line="5" selection-start-column="1075" selection-end-line="5" selection-end-column="1075" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/certifications/ccdsap_al_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1394" selection-start-line="5" selection-start-column="1394" selection-end-line="5" selection-end-column="1394" />
+              <caret line="5" column="2924" selection-start-line="5" selection-start-column="2924" selection-end-line="5" selection-end-column="2924" />
             </state>
           </provider>
         </entry>
@@ -174,7 +171,6 @@
         <option value="$PROJECT_DIR$/data/sitac/sitac_2017_card.json" />
         <option value="$PROJECT_DIR$/data/sitac/sitac_2018_card.json" />
         <option value="$PROJECT_DIR$/data/technical_events/technical_events.json" />
-        <option value="$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json" />
         <option value="$PROJECT_DIR$/data/mentorship/mentorship.json" />
         <option value="$PROJECT_DIR$/fundings.html" />
         <option value="$PROJECT_DIR$/data/fundings/fundings.json" />
@@ -198,6 +194,7 @@
         <option value="$PROJECT_DIR$/data/achievements/icpc_2016_amritapuri_onsite_card.json" />
         <option value="$PROJECT_DIR$/data/certifications/ccdsap_al_card.json" />
         <option value="$PROJECT_DIR$/data/certifications/ccdsap_fl_card.json" />
+        <option value="$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json" />
       </list>
     </option>
   </component>
@@ -217,6 +214,17 @@
             <path>
               <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="mentorship" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,15 +312,16 @@
       <workItem from="1604409073194" duration="3372000" />
       <workItem from="1604517370293" duration="1165000" />
       <workItem from="1604591433417" duration="866000" />
-      <workItem from="1604689891317" duration="403000" />
+      <workItem from="1604689891317" duration="1110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163314000" />
+    <option name="totallyTimeSpent" value="164021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="949" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913043" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -488,13 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="2211" selection-start-line="5" selection-start-column="2211" selection-end-line="5" selection-end-column="2211" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/mentorship/mentorship.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -632,13 +634,6 @@
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/icpc_coding_arena_2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/service_outreach/c_workshop_card.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -708,6 +703,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/technical_events/goc_images/techumen_1560_participants.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="60" column="43" lean-forward="true" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/mentorship/wce_covid19_visitor_management_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2924" selection-start-line="5" selection-start-column="2924" selection-end-line="5" selection-end-column="2924" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
