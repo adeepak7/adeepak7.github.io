@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/acm_icpc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/amrita_uni_front_look.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/banquet_dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/chefs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/icpc/icpc_images/icpc_coding_arena_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/icpc/icpc_images/DSC_1757.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/icpc/icpc_images/deepak_at_beach.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/icpc/icpc_images/MOV_1721.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/data/icpc/icpc_videos/MOV_1721.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/icpc/icpc_images/MOV_1748.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/data/icpc/icpc_videos/MOV_1748.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acm_icpc.html" beforeDir="false" afterPath="$PROJECT_DIR$/acm_icpc.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,11 +19,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/journey_starts_at_chiplun.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/oj_enjoying_beach.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -40,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/acm_icpc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="204" column="4" selection-start-line="204" selection-start-column="4" selection-end-line="204" selection-end-column="4" />
+            <state relative-caret-position="165">
+              <caret line="76" column="53" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="53" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -50,9 +36,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="86" column="82" selection-start-line="86" selection-start-column="82" selection-end-line="86" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sitac.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="735">
               <caret line="49" selection-start-line="49" selection-end-line="165" selection-end-column="9" />
             </state>
           </provider>
@@ -202,6 +197,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,7 +234,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,11 +318,12 @@
       <workItem from="1604689891317" duration="2113000" />
       <workItem from="1604862571550" duration="4546000" />
       <workItem from="1604910281542" duration="4501000" />
+      <workItem from="1604921829214" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174071000" />
+    <option name="totallyTimeSpent" value="174111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="949" extended-state="0" />
@@ -496,13 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/certifications.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
@@ -511,9 +500,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/chefs.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/deepak_at_beach.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/acrobots_sand_structure.jpg">
@@ -585,6 +571,19 @@
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/oj_enjoying_beach.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/sitac.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" selection-start-line="49" selection-end-line="165" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/praveen_and_triveni.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/returning_home.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_photo_chiplun.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -597,23 +596,17 @@
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_selfie_at_beach.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/praveen_and_triveni.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/returning_home.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sitac.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="49" selection-start-line="49" selection-end-line="165" selection-end-column="9" />
+        <state relative-caret-position="209">
+          <caret line="86" column="82" selection-start-line="86" selection-start-column="82" selection-end-line="86" selection-end-column="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/acm_icpc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="204" column="4" selection-start-line="204" selection-start-column="4" selection-end-line="204" selection-end-column="4" />
+        <state relative-caret-position="165">
+          <caret line="76" column="53" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="53" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
