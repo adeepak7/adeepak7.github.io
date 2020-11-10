@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/achievements/achievements_images/placement_award.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/achievements/achievements.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/achievements/achievements.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/achievements/opa_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/achievements/opa_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/acm_icpc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="1140">
               <caret line="76" column="53" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="53" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -33,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="107" column="26" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
+            <state relative-caret-position="-39">
+              <caret line="245" selection-start-line="245" selection-end-line="245" />
             </state>
           </provider>
         </entry>
@@ -45,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="86" column="82" selection-start-line="86" selection-start-column="82" selection-end-line="86" selection-end-column="82" />
+            <state relative-caret-position="435">
+              <caret line="159" column="7" lean-forward="true" selection-start-line="159" selection-start-column="7" selection-end-line="159" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -60,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/achievements/opa_card.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -187,7 +185,6 @@
         <option value="$PROJECT_DIR$/data/achievements/fy_scholarship_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/cf_1_card.json" />
         <option value="$PROJECT_DIR$/data/service_outreach/c_workshop_card.json" />
-        <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/publications.html" />
         <option value="$PROJECT_DIR$/data/achievements/icpc_2016_amritapuri_onsite_card.json" />
         <option value="$PROJECT_DIR$/data/certifications/ccdsap_al_card.json" />
@@ -199,6 +196,7 @@
         <option value="$PROJECT_DIR$/acm_icpc.html" />
         <option value="$PROJECT_DIR$/data/achievements/achievements.json" />
         <option value="$PROJECT_DIR$/data/achievements/opa_card.json" />
+        <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
   </component>
@@ -218,17 +216,6 @@
             <path>
               <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="achievements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -320,12 +307,13 @@
       <workItem from="1604862571550" duration="4546000" />
       <workItem from="1604910281542" duration="4501000" />
       <workItem from="1604921829214" duration="350000" />
-      <workItem from="1604950070439" duration="479000" />
+      <workItem from="1604950070439" duration="701000" />
+      <workItem from="1605037288346" duration="1837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174900000" />
+    <option name="totallyTimeSpent" value="176959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="949" extended-state="0" />
@@ -565,39 +553,13 @@
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/returning_home.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_photo_chiplun.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_photo_on_backwaters_bridge.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_room.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_selfie_at_beach.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/acm_icpc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="1140">
           <caret line="76" column="53" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="53" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="107" column="26" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="86" column="82" selection-start-line="86" selection-start-column="82" selection-end-line="86" selection-end-column="82" />
         </state>
       </provider>
     </entry>
@@ -615,10 +577,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_photo_chiplun.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_photo_on_backwaters_bridge.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_room.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_selfie_at_beach.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/achievements/opa_card.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="1034" selection-start-line="5" selection-start-column="1034" selection-end-line="5" selection-end-column="1034" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="159" column="7" lean-forward="true" selection-start-line="159" selection-start-column="7" selection-end-line="159" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
         </state>
       </provider>
     </entry>

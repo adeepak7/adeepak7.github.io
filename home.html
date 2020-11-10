@@ -57,29 +57,29 @@
 
                             <div class="tiles-grid tiles-group p-2" data-group-title="">
 
-                                <div data-role="tile" data-size="small" class="bg-darkBlue">
+                                <div id="linkedin_tile" data-role="tile" data-size="small" class="bg-darkBlue">
                                     <span class="mif-linkedin icon"></span>
                                 </div>
-                                <div data-role="tile" data-size="small" class="bg-orange">
+                                <div id="so_tile" data-role="tile" data-size="small" class="bg-orange">
                                     <span class="mif-stackoverflow icon"></span>
                                 </div>
-                                <div data-role="tile" data-size="small" class="col-3 row-1 bg-black">
+                                <div id="github_tile" data-role="tile" data-size="small" class="col-3 row-1 bg-black">
                                     <span class="mif-github icon"></span>
                                 </div>
 
-                                <div data-size="small" data-role="tile" class="bg-lime">
+                                <div id="orcid_tile" data-size="small" data-role="tile" class="bg-lime">
                                     <img src="images/orcid.png" class="icon">
                                 </div>
 
-                                <div data-size="small" data-role="tile" class="bg-yellow">
+                                <div id="aim_tile" data-size="small" data-role="tile" class="bg-yellow">
                                     <img src="images/aim.jpg" style="max-width: 100%">
                                 </div>
 
-                                <div data-role="tile" data-size="small" class="bg-cyan">
+                                <div id="twitter_tile" data-role="tile" data-size="small" class="bg-cyan">
                                     <span class="mif-twitter icon"></span>
                                 </div>
 
-                                <div data-role="tile" data-size="small" class="bg-red">
+                                <div id="youtube_tile" data-role="tile" data-size="small" class="bg-red">
                                     <span class="mif-youtube icon"></span>
                                 </div>
                             </div>
@@ -241,5 +241,39 @@
 
 </div>
 
+
+<script>
+
+    $(document).ready(function(){
+
+        $('#linkedin_tile').click(function(e){
+            window.open('https://www.linkedin.com/in/adeepak7/');
+        });
+
+        $('#so_tile').click(function(e){
+            window.open('https://stackoverflow.com/users/7422352/deepak-tatyaji-ahire?tab=profile');
+        });
+
+        $('#github_tile').click(function(e){
+            window.open('https://github.com/adeepak7');
+        });
+
+        $('#orcid_tile').click(function(e){
+            window.open('https://orcid.org/0000-0002-9174-0797/');
+        });
+
+        $('#twitter_tile').click(function(e){
+            window.open('https://twitter.com/adeepak207');
+        });
+
+        $('#aim_tile').click(function(e){
+            window.open('https://analyticsindiamag.com/author/ahiredeepak20gmail-com/');
+        });
+
+        $('#youtube_tile').click(function(e){
+            window.open('https://www.youtube.com/channel/UCGsg3MvuGC4D3Wikv1UdDZA/featured?view_as=subscriber');
+        });
+    });
+</script>
 
 <!-- https://stackoverflow.com/users/flair/7422352.json-->
