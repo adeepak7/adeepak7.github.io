@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sitac/sitac_2018_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/sitac/sitac_2018_card.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,19 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home.html">
+        <entry file="file://$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="245" selection-start-line="245" selection-end-line="245" />
+            <state relative-caret-position="105">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json">
+        <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_card.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="4406" selection-start-line="5" selection-start-column="4406" selection-end-line="5" selection-end-column="4406" />
             </state>
           </provider>
         </entry>
@@ -164,7 +164,6 @@
         <option value="$PROJECT_DIR$/data/sitac/sitac.json" />
         <option value="$PROJECT_DIR$/data/sitac/sitac_2016_card.json" />
         <option value="$PROJECT_DIR$/data/sitac/sitac_2017_card.json" />
-        <option value="$PROJECT_DIR$/data/sitac/sitac_2018_card.json" />
         <option value="$PROJECT_DIR$/data/technical_events/technical_events.json" />
         <option value="$PROJECT_DIR$/data/mentorship/mentorship.json" />
         <option value="$PROJECT_DIR$/fundings.html" />
@@ -194,6 +193,7 @@
         <option value="$PROJECT_DIR$/data/achievements/opa_card.json" />
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json" />
+        <option value="$PROJECT_DIR$/data/sitac/sitac_2018_card.json" />
       </list>
     </option>
   </component>
@@ -207,6 +207,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,13 +224,12 @@
               <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="mentorship" type="462c0819:PsiDirectoryNode" />
+              <item name="sitac" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -318,12 +318,13 @@
       <workItem from="1604950070439" duration="701000" />
       <workItem from="1605037288346" duration="1943000" />
       <workItem from="1605039901328" duration="112000" />
-      <workItem from="1605207318604" duration="1005000" />
+      <workItem from="1605207318604" duration="1259000" />
+      <workItem from="1605212012997" duration="790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178182000" />
+    <option name="totallyTimeSpent" value="179226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="949" extended-state="0" />
@@ -395,19 +396,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/publications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2775">
-          <caret line="185" column="73" selection-start-line="185" selection-start-column="73" selection-end-line="185" selection-end-column="73" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/technical_events/algo_elite_card.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -570,6 +558,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/achievements/achievements.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -603,10 +598,10 @@
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_selfie_at_beach.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
+    <entry file="file://$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="245" selection-start-line="245" selection-end-line="245" />
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -617,10 +612,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/mentorship/founding_member_of_wce_codepals_card.json">
+    <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2018_card.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="5" column="4406" selection-start-line="5" selection-start-column="4406" selection-end-line="5" selection-end-column="4406" />
         </state>
       </provider>
     </entry>
