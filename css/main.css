@@ -7,6 +7,11 @@ body{
   font-family: Arial, sans-serif;
 }
 
+.navview .pull-button {
+  height: 52px;
+  width: 52px;
+}
+
 .navview .navview-content {
   padding-top: 52px;
   background-color: #ECF0F5;
@@ -18,6 +23,20 @@ body{
 
 .navview-pane * {
   scrollbar-color: #1ba1e2 #4b646f !important;
+}
+
+.navview .pull-button + h4,
+.navview.compacted .pull-button + h4 {
+  display: none;
+}
+.navview.expand .pull-button + h4,
+.navview-pane.open .pull-button + h4 {
+  display: flex;
+}
+@media screen and (min-width: 1200px) {
+  .navview .pull-button + h4 {
+    display: flex;
+  }
 }
 
 @media all and (min-width: 640px) {
