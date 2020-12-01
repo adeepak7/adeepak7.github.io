@@ -2,8 +2,136 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vendors/chartjs/Chart.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/chartjs/Chart.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/chartjs/Chart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/chartjs/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/chartjs/Chart.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/chartjs/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/ckeditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/ckeditor.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/sample/css/sample.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/sample/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/sample/img/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/sample/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/sample/img/umbrellas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/ast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/de-ch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/en-au.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/eo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/gu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/kn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/ku.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/ne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/oc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/pt-br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/si.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/sq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/sr-latn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/tt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/ug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/ckeditor/translations/zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/jquery/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/jquery/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/jquery/jquery-3.4.1.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/jsbarcode/JsBarcode.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/jsbarcode/JsBarcode.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/jsbarcode/barcodes/JsBarcode.codabar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/jsbarcode/barcodes/JsBarcode.code128.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/jsbarcode/barcodes/JsBarcode.code39.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/jsbarcode/barcodes/JsBarcode.ean-upc.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/jsbarcode/barcodes/JsBarcode.itf.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/jsbarcode/barcodes/JsBarcode.msi.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/jsbarcode/barcodes/JsBarcode.pharmacode.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-animations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-animations.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-colors.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-common.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-components.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-components.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-icons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-reset.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-third.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro-third.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/metro.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/schemes/darcula.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/schemes/darcula.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/schemes/red-alert.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/schemes/red-alert.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/schemes/red-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/schemes/red-dark.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/schemes/red-mirohost.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/schemes/red-mirohost.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/schemes/sky-net.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/schemes/sky-net.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/third-party/datatables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/third-party/datatables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/third-party/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/css/third-party/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/js/metro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/js/metro.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/js/metro.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/mif/metro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/mif/metro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/mif/metro.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/metro4/mif/metro.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/qrcode/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/qrcode/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/qrcode/qrcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendors/qrcode/qrcode.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/certifications/hackerrank_rest_api_il_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/certifications/hackerrank_rest_api_il_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +150,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="142" column="14" selection-start-line="142" selection-start-column="14" selection-end-line="142" selection-end-column="14" />
+            <state relative-caret-position="345">
+              <caret line="23" column="71" selection-start-line="23" selection-start-column="71" selection-end-line="23" selection-end-column="71" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -32,19 +160,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/certifications/hackerrank_rest_api_il_card.json">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/achievements/icicse_2020_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="495">
+              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -70,7 +189,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2115">
+            <state relative-caret-position="2107">
               <caret line="141" column="242" selection-start-line="141" selection-start-column="242" selection-end-line="141" selection-end-column="242" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -153,7 +272,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/achievements/bm_world_codesprint_8_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/bm_woc_26_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/bm_woc_24_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/bm_101_hack_41_card.json" />
@@ -203,6 +321,7 @@
         <option value="$PROJECT_DIR$/data/achievements/achievements.json" />
         <option value="$PROJECT_DIR$/data/achievements/icicse_2020_card.json" />
         <option value="$PROJECT_DIR$/data/certifications/hackerrank_rest_api_il_card.json" />
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -227,13 +346,17 @@
             <path>
               <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="certifications" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="vendors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -246,24 +369,24 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/data/media_coverage/media_coverage_pdfs" />
-      <recent name="$PROJECT_DIR$/data/achievements/achievements_images" />
-      <recent name="$PROJECT_DIR$/data/icpc/icpc_images" />
-      <recent name="$PROJECT_DIR$/data/technical_events/goc_images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data/icpc/icpc_videos" />
       <recent name="$PROJECT_DIR$/data/icpc/icpc_images" />
       <recent name="$PROJECT_DIR$/data/achievements" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data/service_outreach" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/vendors" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/data/media_coverage/media_coverage_pdfs" />
+      <recent name="$PROJECT_DIR$/data/achievements/achievements_images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -337,18 +460,19 @@
       <workItem from="1606155999973" duration="312000" />
       <workItem from="1606406363056" duration="1121000" />
       <workItem from="1606579049325" duration="617000" />
-      <workItem from="1606588045716" duration="59000" />
+      <workItem from="1606588045716" duration="479000" />
+      <workItem from="1606844833086" duration="3439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189002000" />
+    <option name="totallyTimeSpent" value="192861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913043" visible="true" weight="0.24954791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913043" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5008696" side_tool="true" weight="0.24954791" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -359,7 +483,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3286219" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286219" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4972875" weight="0.3286219" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5027125" side_tool="true" weight="0.32905483" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -414,16 +538,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/technical_events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/invited_talks.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/sitac/sitac_2016_card.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -561,9 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/feedback.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -594,6 +705,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/certifications/hackerrank_rest_api_il_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/achievements/icicse_2020_card.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -615,16 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2115">
-          <caret line="141" column="242" selection-start-line="141" selection-start-column="242" selection-end-line="141" selection-end-column="242" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sitac.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
@@ -641,17 +749,33 @@
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_selfie_at_beach.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/certifications/hackerrank_rest_api_il_card.json">
+    <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        <state relative-caret-position="2107">
+          <caret line="141" column="242" selection-start-line="141" selection-start-column="242" selection-end-line="141" selection-end-column="242" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendors/metro-all.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendors/jquery/jquery-3.4.1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="142" column="14" selection-start-line="142" selection-start-column="14" selection-end-line="142" selection-end-column="14" />
+        <state relative-caret-position="345">
+          <caret line="23" column="71" selection-start-line="23" selection-start-column="71" selection-end-line="23" selection-end-column="71" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
