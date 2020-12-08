@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/achievements.html" beforeDir="false" afterPath="$PROJECT_DIR$/achievements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/certifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/certifications.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,7 +23,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
+            <state relative-caret-position="15">
               <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -33,19 +34,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
+        <entry file="file://$PROJECT_DIR$/certifications.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="679">
+              <caret line="150" column="61" selection-start-line="150" selection-start-column="61" selection-end-line="150" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/index.js">
+        <entry file="file://$PROJECT_DIR$/achievements.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+            <state relative-caret-position="664">
+              <caret line="150" column="50" selection-start-line="150" selection-start-column="50" selection-end-line="150" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -71,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1235">
+            <state relative-caret-position="2115">
               <caret line="141" column="242" selection-start-line="141" selection-start-column="242" selection-end-line="141" selection-end-column="242" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -154,8 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/achievements/bm_woc_24_card.json" />
-        <option value="$PROJECT_DIR$/data/achievements/bm_101_hack_41_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/bm_world_codesprint_6_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/bm_101_hack_40_card.json" />
         <option value="$PROJECT_DIR$/data/achievements/sm_woc_22_card.json" />
@@ -205,6 +204,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/scripts/index.js" />
+        <option value="$PROJECT_DIR$/certifications.html" />
+        <option value="$PROJECT_DIR$/achievements.html" />
       </list>
     </option>
   </component>
@@ -349,18 +350,19 @@
       <workItem from="1606579049325" duration="617000" />
       <workItem from="1606588045716" duration="479000" />
       <workItem from="1606844833086" duration="5192000" />
-      <workItem from="1606898622011" duration="3218000" />
+      <workItem from="1606898622011" duration="3924000" />
+      <workItem from="1607429061284" duration="514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197832000" />
+    <option name="totallyTimeSpent" value="199052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913043" visible="true" weight="0.24954791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913043" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5008696" side_tool="true" weight="0.24954791" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -371,7 +373,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3286219" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286219" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4972875" weight="0.3286219" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5027125" side_tool="true" weight="0.32905483" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -426,16 +428,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/certifications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/chefs.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/acrobots_sand_structure.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -604,6 +596,20 @@
     <entry file="file://$PROJECT_DIR$/vendors/jquery/jquery-3.4.1.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/achievements/achievements.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -615,6 +621,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="1034" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2115">
+          <caret line="141" column="242" selection-start-line="141" selection-start-column="242" selection-end-line="141" selection-end-column="242" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -634,26 +650,9 @@
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/team_selfie_at_beach.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
-          <caret line="141" column="242" selection-start-line="141" selection-start-column="242" selection-end-line="141" selection-end-column="242" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
+        <state relative-caret-position="15">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -662,10 +661,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/index.js">
+    <entry file="file://$PROJECT_DIR$/certifications.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        <state relative-caret-position="679">
+          <caret line="150" column="61" selection-start-line="150" selection-start-column="61" selection-end-line="150" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/achievements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="150" column="50" selection-start-line="150" selection-start-column="50" selection-end-line="150" selection-end-column="50" />
         </state>
       </provider>
     </entry>
