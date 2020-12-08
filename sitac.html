@@ -10,7 +10,7 @@
         </div>
     </div>
 
-    <div class="cell-lg-9 cell-md-6">
+    <div class="cell-lg-9 cell-md-6" id="customContentArea">
         <div id="question" class="window mt-1" style="width:100%">
             <div class="window-caption">
                 <span id="card-title" class="title"></span>
@@ -126,7 +126,8 @@
 
             }).fail(function () {
 
-        })
+        });
+        document.getElementById('customContentArea').scrollIntoView();
     }
 
     function loadContents(tab){
@@ -157,7 +158,8 @@
 
             }).fail(function () {
 
-        })
+        });
+        document.getElementById('customContentArea').scrollIntoView();
     }
 
 
