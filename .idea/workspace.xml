@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/certifications/hackerrank_node_il_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/certifications/undrst_research_methods_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/university_of_london_logo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/certifications/certifications.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/certifications/certifications.json" afterDir="false" />
     </list>
@@ -20,20 +21,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/certifications/certifications.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            <state relative-caret-position="15">
+              <caret line="1" column="204" selection-start-line="1" selection-start-column="204" selection-end-line="1" selection-end-column="204" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/certifications/pcep_2020_card.json">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+              <folding>
+                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/certifications/undrst_research_methods_card.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="1070" lean-forward="true" selection-end-line="7" selection-end-column="1" />
+              <caret line="5" column="1081" selection-start-line="5" selection-start-column="1081" selection-end-line="5" selection-end-column="1081" />
             </state>
           </provider>
         </entry>
@@ -41,17 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/certifications/latex_edx_card.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/certifications/hackerrank_node_il_card.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="872" selection-start-line="5" selection-start-column="872" selection-end-line="5" selection-end-column="872" />
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="true" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -156,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/service_outreach/so_contributions_card.json" />
         <option value="$PROJECT_DIR$/data/sitac/sitac.json" />
         <option value="$PROJECT_DIR$/data/sitac/sitac_2016_card.json" />
         <option value="$PROJECT_DIR$/data/sitac/sitac_2017_card.json" />
@@ -207,6 +211,7 @@
         <option value="$PROJECT_DIR$/data/certifications/latex_edx_card.json" />
         <option value="$PROJECT_DIR$/data/certifications/hackerrank_node_il_card.json" />
         <option value="$PROJECT_DIR$/data/certifications/certifications.json" />
+        <option value="$PROJECT_DIR$/data/certifications/undrst_research_methods_card.json" />
       </list>
     </option>
   </component>
@@ -239,6 +244,11 @@
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="certifications" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="adeepak7.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeepak7.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -254,19 +264,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/data/icpc/icpc_videos" />
-      <recent name="$PROJECT_DIR$/data/icpc/icpc_images" />
-      <recent name="$PROJECT_DIR$/data/achievements" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/data/service_outreach" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/vendors" />
       <recent name="$PROJECT_DIR$/data/media_coverage/media_coverage_pdfs" />
       <recent name="$PROJECT_DIR$/data/achievements/achievements_images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/icpc/icpc_videos" />
+      <recent name="$PROJECT_DIR$/data/icpc/icpc_images" />
+      <recent name="$PROJECT_DIR$/data/achievements" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data/service_outreach" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -347,15 +357,16 @@
       <workItem from="1607705962487" duration="1176000" />
       <workItem from="1608040013202" duration="826000" />
       <workItem from="1608058908006" duration="321000" />
-      <workItem from="1608352723593" duration="239000" />
+      <workItem from="1608352723593" duration="487000" />
+      <workItem from="1608731125055" duration="1306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202773000" />
+    <option name="totallyTimeSpent" value="204327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1680" height="942" extended-state="0" />
+    <frame x="0" y="25" width="1680" height="942" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913043" visible="true" weight="0.24954791" />
@@ -424,9 +435,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/icpc_coding_arena_3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/icpc/icpc_images/icpc_id_card.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -639,17 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/latex_edx_iitb_logo.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -660,10 +657,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/certifications/pshw_card.json">
+    <entry file="file://$PROJECT_DIR$/data/certifications/hackerrank_node_il_card.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="5" column="872" selection-start-line="5" selection-start-column="872" selection-end-line="5" selection-end-column="872" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/certifications/hackerrank_js_bl_card.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/certifications/hackerrank_java_il_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -688,34 +695,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/certifications/latex_edx_card.json">
+    <entry file="file://$PROJECT_DIR$/data/certifications/pshw_card.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        <state>
+          <caret selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/certifications/hackerrank_js_bl_card.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/certifications/hackerrank_java_il_card.json">
+    <entry file="file://$PROJECT_DIR$/data/certifications/latex_edx_card.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="1" lean-forward="true" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/certifications/hackerrank_node_il_card.json">
+    <entry file="file://$PROJECT_DIR$/data/certifications/certifications.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="872" selection-start-line="5" selection-start-column="872" selection-end-line="5" selection-end-column="872" />
+        <state relative-caret-position="15">
+          <caret line="1" column="204" selection-start-line="1" selection-start-column="204" selection-end-line="1" selection-end-column="204" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/certifications/certifications.json">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="352">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/certifications/undrst_research_methods_card.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1081" selection-start-line="5" selection-start-column="1081" selection-end-line="5" selection-end-column="1081" />
         </state>
       </provider>
     </entry>
