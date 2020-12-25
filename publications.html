@@ -2,263 +2,292 @@
 
     <div class="cell-lg-10 cell-md-10">
 
+        <select class='m-4' data-role="select" data-filter="false" data-prepend="Filter By Type:" data-on-change="$('#publications').data('list').filter(this.value)">
+            <option value="" selected>All</option>
+            <option value="Journal Article">Journal Article</option>
+            <option value="Conference Article">Conference Article</option>
+            <option value="Magazine Article">Magazine Article</option>
+            <option value="Algorithmic Problem Statement">Algorithmic Problem Statement</option>
+            <option value="Video Tutorial">Video Tutorial</option>
+        </select>
 
-        <!-- Card Begins Here-->
-        <div class="window m-4" style="width:100%">
-            <div class="window-caption">
-                <span class="title"><img style="width:80%;" src="data/publications/publications_images/k_max_title.png"></span>
-            </div>
-            <div class="window-content p-1 d-flex">
+        <ul id="publications" data-role="list" data-cls-list="unstyled-list" data-sort-initial="false">
 
-                <div  class="mr-auto text-small" style="width: 100%">
+            <li>
 
-                    <div class="card">
+                <!-- Card Begins Here-->
+                <div class="window m-4" style="width:100%">
+                    <div class="window-caption">
+                        <span class="title ml-2"><img style="width:80%;" src="data/publications/publications_images/k_max_title.png"></span>
+                    </div>
+                    <div class="window-content p-1 d-flex">
 
-                        <div class="card-header">
-                            <div class="avatar">
-                                <img src="images/springer_journal_logo.png">
+                        <div  class="mr-auto text-small" style="width: 100%">
+
+                            <div class="card">
+
+                                <div class="card-header">
+                                    <div class="avatar">
+                                        <img src="images/springer_journal_logo.png">
+                                    </div>
+                                    <div class="name"><span><img style="width:60%;" src="data/publications/publications_images/k_max_header.png"></span></div>
+                                    <div class="date"><span class="tally success">Conference Article</span><span class="ml-2 tally info">Accepted - August 2020</span><span class="ml-2 tally alert">In stage of publication</span></div>
+                                </div>
+
+                                <div class="card-content">
+
+                                    <div class='m-2'>
+
+                                        <div class='m-4'>Presented in the 8th International Conference on Innovations in Computer Science & Engineering (ICICSE), 2020, Hyderabad, India.</div>
+
+
+                                        <ul>
+                                            <li><strong>Will be published in: </strong><a href='https://www.springer.com/gp/book/9789813345423' target="_blank" rel='noopener noreferer'>Innovations in Computer Science and Engineering, Proceedings of 8th ICICSE.</a></li>
+                                            <li><strong>Series: </strong><a href='https://www.springer.com/series/15179' target="_blank" rel='noopener noreferer'>Lecture Notes in Networks and Systems (LNNS), Springer.</a></li>
+                                        </ul>
+
+                                        <div class='m-4'><strong>NOTE: </strong>The article is in the stage of publication. The <strong><span class="fg-red">LINK</span> to access the accepted article has been provided in my CV.</strong> Kindly do not share or upload this article anywhere <strong>to avoid indexing by serach engines or databases.</strong></div>
+
+                                    </div>
+
+                                </div>
+
                             </div>
-                            <div class="name"><span><img style="width:60%;" src="data/publications/publications_images/k_max_header.png"></span></div>
-                            <div class="date">In stage of publication</div>
+
                         </div>
 
-                        <div class="card-content">
-
-                            <div class='m-2'>
-
-                                <span class="title"><img style="width:80%;" src="data/publications/publications_images/k_max_content.png"></span>
-
-                            </div>
-
-                        </div>
+                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
 
                     </div>
-
                 </div>
+                <!-- Card Ends Here-->
+            </li>
 
-                <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
+            <li>
+                <!-- Card Begins Here-->
+                <div class="window m-4" style="width:100%">
+                    <div class="window-caption">
+                        <span class="title ml-2">Publication: Video Over Intranet (VDOIT)</span>
+                    </div>
+                    <div class="window-content p-1 d-flex">
 
-            </div>
-        </div>
-        <!-- Card Ends Here-->
+                        <div  class="mr-auto text-small" style="width: 100%">
 
-        <!-- Card Begins Here-->
-        <div class="window m-4" style="width:100%">
-            <div class="window-caption">
-                <span class="title">Publication: Video Over Intranet (VDOIT)</span>
-            </div>
-            <div class="window-content p-1 d-flex">
+                            <div class="card">
 
-                <div  class="mr-auto text-small" style="width: 100%">
+                                <div class="card-header">
+                                    <div class="avatar">
+                                        <img src="images/rio_journal_logo.jpg">
+                                    </div>
+                                    <div class="name">Video Over Intranet (VDOIT)</div>
+                                    <div class="date"><span class="tally success">Journal Article</span><span class="ml-2 tally info">September 2020</span></div>
+                                </div>
 
-                    <div class="card">
+                                <div class="card-content">
 
-                        <div class="card-header">
-                            <div class="avatar">
-                                <img src="images/rio_journal_logo.jpg">
+                                    <div class='m-2'>
+
+                                        <div class="img-container thumbnail mb-8"><img style="width:50%;" src="images/vdoit_logo.png"></div>
+
+                                        <div class="m-4">VDOIT is an on-demand, on-premise, and secure video calling service over the private cloud of private organizations that can be used without the use of any external hardware and free of cost.</div>
+
+                                        <ul>
+                                            <li><strong>Article Name: </strong><a href='https://doi.org/10.3897/rio.6.e58504' target='_blank' rel='noopener noreferer'>Video Over Intranet (VDOIT)</a></li>
+                                            <li><strong>Type: </strong>Journal Article.</li>
+                                            <li><strong>Journal: </strong><a href='https://riojournal.com' target='_blank' rel='noopener noreferer'>Research Ideas and Outcomes.</a></li>
+                                            <li><strong>DOI: </strong>10.3897/rio.6.e58504</li>
+                                            <li><strong>URL: </strong><a href='https://riojournal.com/article/58504/' target='_blank' rel='noopener noreferer'>https://riojournal.com/article/58504/</a></li>
+                                            <li><strong>Citation (bibtex): </strong>@article{Ahire_2020,
+                                                doi = {10.3897/rio.6.e58504},
+                                                url = {https://doi.org/10.3897%2Frio.6.e58504},
+                                                year = 2020,
+                                                month = {sep},
+                                                publisher = {Pensoft Publishers},
+                                                volume = {6},
+                                                author = {Deepak Ahire},
+                                                title = {Video Over Intranet ({VDOIT})},
+                                                journal = {Research Ideas and Outcomes}
+                                                } </li>
+
+                                            <li><strong>Code Repository: </strong><a href="https://github.com/adeepak7/Video-Over-Intranet " target='_blank' rel='noopener noreferer'>https://github.com/adeepak7/Video-Over-Intranet</a></li>
+                                            <li><strong>Live Demonstration: </strong><a href=" https://www.youtube.com/watch?v=nAwfaoq15N8 " target='_blank' rel='noopener noreferer'>Watch on Youtube.</a></li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+
                             </div>
-                            <div class="name">Video Over Intranet (VDOIT)</div>
-                            <div class="date">September 2020.</div>
+
                         </div>
 
-                        <div class="card-content">
-
-                            <div class='m-2'>
-
-                                <div class="img-container thumbnail mb-8"><img style="width:50%;" src="images/vdoit_logo.png"></div>
-
-                                <div class="m-4">VDOIT is an on-demand, on-premise, and secure video calling service over the private cloud of private organizations that can be used without the use of any external hardware and free of cost.</div>
-
-                                <ul>
-                                    <li><strong>Article Name: </strong><a href='https://doi.org/10.3897/rio.6.e58504' target='_blank' rel='noopener noreferer'>Video Over Intranet (VDOIT)</a></li>
-                                    <li><strong>Type: </strong>Journal Article.</li>
-                                    <li><strong>Journal: </strong><a href='https://riojournal.com' target='_blank' rel='noopener noreferer'>Research Ideas and Outcomes.</a></li>
-                                    <li><strong>DOI: </strong>10.3897/rio.6.e58504</li>
-                                    <li><strong>URL: </strong><a href='https://riojournal.com/article/58504/' target='_blank' rel='noopener noreferer'>https://riojournal.com/article/58504/</a></li>
-                                    <li><strong>Citation (bibtex): </strong>@article{Ahire_2020,
-                                        doi = {10.3897/rio.6.e58504},
-                                        url = {https://doi.org/10.3897%2Frio.6.e58504},
-                                        year = 2020,
-                                        month = {sep},
-                                        publisher = {Pensoft Publishers},
-                                        volume = {6},
-                                        author = {Deepak Ahire},
-                                        title = {Video Over Intranet ({VDOIT})},
-                                        journal = {Research Ideas and Outcomes}
-                                        } </li>
-
-                                    <li><strong>Code Repository: </strong><a href="https://github.com/adeepak7/Video-Over-Intranet " target='_blank' rel='noopener noreferer'>https://github.com/adeepak7/Video-Over-Intranet</a></li>
-                                    <li><strong>Live Demonstration: </strong><a href=" https://www.youtube.com/watch?v=nAwfaoq15N8 " target='_blank' rel='noopener noreferer'>Watch on Youtube.</a></li>
-                                </ul>
-                            </div>
-
-                        </div>
+                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
 
                     </div>
-
                 </div>
+                <!-- Card Ends Here-->
+            </li>
 
-                <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
+            <li>
+                <!-- Card Begins Here-->
+                <div class="window m-4" style="width:100%">
+                    <div class="window-caption">
+                        <span class="title ml-2">Publication: Why Has The Number Of Combo Recommendations Decreased On E-commerce Platforms?</span>
+                    </div>
+                    <div class="window-content p-1 d-flex">
 
-            </div>
-        </div>
-        <!-- Card Ends Here-->
+                        <div  class="mr-auto text-small" style="width: 100%">
 
-        <!-- Card Begins Here-->
-        <div class="window m-4" style="width:100%">
-            <div class="window-caption">
-                <span class="title">Publication: Why Has The Number Of Combo Recommendations Decreased On E-commerce Platforms?</span>
-            </div>
-            <div class="window-content p-1 d-flex">
+                            <div class="card">
 
-                <div  class="mr-auto text-small" style="width: 100%">
+                                <div class="card-header">
+                                    <div class="avatar">
+                                        <img src="images/aim.jpg">
+                                    </div>
+                                    <div class="name">Why Has The Number Of Combo Recommendations Decreased On E-commerce Platforms?</div>
+                                    <div class="date"><span class="tally success">Magazine Article</span><span class="ml-2 tally info">September 2020</span></div>
+                                </div>
 
-                    <div class="card">
+                                <div class="card-content">
 
-                        <div class="card-header">
-                            <div class="avatar">
-                                <img src="images/aim.jpg">
+                                    <div class='m-2'>
+
+
+                                        <ul>
+                                            <li><strong>Article Name: </strong><a href='https://analyticsindiamag.com/why-has-the-number-of-combo-recommendations-decreased-on-e-commerce-platforms/' target='_blank' rel='noopener noreferer'>Why Has The Number Of Combo Recommendations Decreased On E-commerce Platforms?</a></li>
+                                            <li><strong>Type: </strong>Magazine Article.</li>
+                                            <li><strong>Magazine: </strong><a href='https://analyticsindiamag.com' target='_blank' rel='noopener noreferer'>Analytics India Magazine.</a></li>
+                                            <li><strong>URL: </strong><a href='https://analyticsindiamag.com/why-has-the-number-of-combo-recommendations-decreased-on-e-commerce-platforms/' target='_blank' rel='noopener noreferer'>https://analyticsindiamag.com/why-has-the-number-of-combo-recommendations-decreased-on-e-commerce-platforms//</a></li>
+                                            <li><strong>Citation (bibtex): </strong>@article{ahire_2020, title={Why Has The Number Of Combo Recommendations Decreased On E-commerce Platforms?}, url={https://analyticsindiamag.com/why-has-the-number-of-combo-recommendations-decreased-on-e-commerce-platforms/}, journal={Analytics India Magazine}, author={Ahire, Deepak Tatyaji}, year={2020}, month={Sep}} </li>
+
+                                        </ul>
+                                    </div>
+
+                                </div>
+
                             </div>
-                            <div class="name">Why Has The Number Of Combo Recommendations Decreased On E-commerce Platforms?</div>
-                            <div class="date">September 2020.</div>
+
                         </div>
 
-                        <div class="card-content">
-
-                            <div class='m-2'>
-
-
-                                <ul>
-                                    <li><strong>Article Name: </strong><a href='https://analyticsindiamag.com/why-has-the-number-of-combo-recommendations-decreased-on-e-commerce-platforms/' target='_blank' rel='noopener noreferer'>Why Has The Number Of Combo Recommendations Decreased On E-commerce Platforms?</a></li>
-                                    <li><strong>Type: </strong>Magazine Article.</li>
-                                    <li><strong>Magazine: </strong><a href='https://analyticsindiamag.com' target='_blank' rel='noopener noreferer'>Analytics India Magazine.</a></li>
-                                    <li><strong>URL: </strong><a href='https://analyticsindiamag.com/why-has-the-number-of-combo-recommendations-decreased-on-e-commerce-platforms/' target='_blank' rel='noopener noreferer'>https://analyticsindiamag.com/why-has-the-number-of-combo-recommendations-decreased-on-e-commerce-platforms//</a></li>
-                                    <li><strong>Citation (bibtex): </strong>@article{ahire_2020, title={Why Has The Number Of Combo Recommendations Decreased On E-commerce Platforms?}, url={https://analyticsindiamag.com/why-has-the-number-of-combo-recommendations-decreased-on-e-commerce-platforms/}, journal={Analytics India Magazine}, author={Ahire, Deepak Tatyaji}, year={2020}, month={Sep}} </li>
-
-                                </ul>
-                            </div>
-
-                        </div>
+                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
 
                     </div>
-
                 </div>
+                <!-- Card Ends Here-->
+            </li>
 
-                <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
+            <li>
+                <!-- Card Begins Here-->
+                <div class="window m-4" style="width:100%">
+                    <div class="window-caption">
+                        <span class="title ml-2">Publication: Code Golfing by Gaining and using the Intimate Knowledge of the Language</span>
+                    </div>
+                    <div class="window-content p-1 d-flex">
 
-            </div>
-        </div>
-        <!-- Card Ends Here-->
+                        <div  class="mr-auto text-small" style="width: 100%">
 
-        <!-- Card Begins Here-->
-        <div class="window m-4" style="width:100%">
-            <div class="window-caption">
-                <span class="title">Publication: Code Golfing by Gaining and using the Intimate Knowledge of the Language</span>
-            </div>
-            <div class="window-content p-1 d-flex">
+                            <div class="card">
 
-                <div  class="mr-auto text-small" style="width: 100%">
+                                <div class="card-header">
+                                    <div class="avatar">
+                                        <img src="images/ijert_logo.png">
+                                    </div>
+                                    <div class="name">Code Golfing by Gaining and using the Intimate Knowledge of the Language</div>
+                                    <div class="date"><span class="tally success">Journal Article</span><span class="ml-2 tally info">May 2020</span></div>
+                                </div>
 
-                    <div class="card">
+                                <div class="card-content">
 
-                        <div class="card-header">
-                            <div class="avatar">
-                                <img src="images/ijert_logo.png">
+                                    <div class='m-2'>
+
+
+                                        <div class="m-4">The FizzBuzz solution presented in the paper is <strong>ranked 5th on <a href="https://code.golf/scores/fizz-buzz/c" target="_blank" rel="noopener noreferer">Code Golf World Leaderboard </a></strong>(as of 1 September 2020).</div>
+                                        <div class="m-4"><strong>Search for username: </strong>adeepak7</div>
+                                        <ul>
+                                            <li><strong>Article Name: </strong><a href='https://www.ijert.org/research/code-golfing-by-gaining-and-using-the-intimate-knowledge-of-the-language-IJERTV9IS050756.pdf' target='_blank' rel='noopener noreferer'>Code Golfing by Gaining and using the Intimate Knowledge of the Language.</a></li>
+                                            <li><strong>Type: </strong>Journal Article.</li>
+                                            <li><strong>Journal: </strong><a href='https://riojournal.com' target='_blank' rel='noopener noreferer'>International Journal of Engineering Research & Technology (IJERT) Volume 09, Issue 05, May2020.</a></li>
+                                            <li><strong>DOI: </strong>http://dx.doi.org/10.17577/IJERTV9IS050756</li>
+                                            <li><strong>URL: </strong><a href='https://www.ijert.org/code-golfing-by-gaining-and-using-the-intimate-knowledge-of-the-language' target='_blank' rel='noopener noreferer'>https://www.ijert.org/code-golfing-by-gaining-and-using-the-intimate-knowledge-of-the-language</a></li>
+                                            <li><strong>Citation (bibtex): </strong>@article{Deepak_Ahire_2020,
+                                                doi = {10.17577/ijertv9is050756},
+                                                url = {https://doi.org/10.17577%2Fijertv9is050756},
+                                                year = 2020,
+                                                month = {jun},
+                                                publisher = {{ESRSA} Publications Pvt. Ltd.},
+                                                volume = {V9},
+                                                number = {05},
+                                                author = {Deepak Ahire and},
+                                                title = {Code Golfing by Gaining and using the Intimate Knowledge of the Language},
+                                                journal = {International Journal of Engineering Research and Technology}
+                                                }  </li>
+
+                                        </ul>
+                                    </div>
+
+                                </div>
+
                             </div>
-                            <div class="name">Code Golfing by Gaining and using the Intimate Knowledge of the Language</div>
-                            <div class="date">May 2020.</div>
+
                         </div>
 
-                        <div class="card-content">
-
-                            <div class='m-2'>
-
-
-                                <div class="m-4">The FizzBuzz solution presented in the paper is <strong>ranked 5th on <a href="https://code.golf/scores/fizz-buzz/c" target="_blank" rel="noopener noreferer">Code Golf World Leaderboard </a></strong>(as of 1 September 2020).</div>
-                                <div class="m-4"><strong>Search for username: </strong>adeepak7</div>
-                                <ul>
-                                    <li><strong>Article Name: </strong><a href='https://www.ijert.org/research/code-golfing-by-gaining-and-using-the-intimate-knowledge-of-the-language-IJERTV9IS050756.pdf' target='_blank' rel='noopener noreferer'>Code Golfing by Gaining and using the Intimate Knowledge of the Language.</a></li>
-                                    <li><strong>Type: </strong>Journal Article.</li>
-                                    <li><strong>Journal: </strong><a href='https://riojournal.com' target='_blank' rel='noopener noreferer'>International Journal of Engineering Research & Technology (IJERT) Volume 09, Issue 05, May2020.</a></li>
-                                    <li><strong>DOI: </strong>http://dx.doi.org/10.17577/IJERTV9IS050756</li>
-                                    <li><strong>URL: </strong><a href='https://www.ijert.org/code-golfing-by-gaining-and-using-the-intimate-knowledge-of-the-language' target='_blank' rel='noopener noreferer'>https://www.ijert.org/code-golfing-by-gaining-and-using-the-intimate-knowledge-of-the-language</a></li>
-                                    <li><strong>Citation (bibtex): </strong>@article{Deepak_Ahire_2020,
-                                        doi = {10.17577/ijertv9is050756},
-                                        url = {https://doi.org/10.17577%2Fijertv9is050756},
-                                        year = 2020,
-                                        month = {jun},
-                                        publisher = {{ESRSA} Publications Pvt. Ltd.},
-                                        volume = {V9},
-                                        number = {05},
-                                        author = {Deepak Ahire and},
-                                        title = {Code Golfing by Gaining and using the Intimate Knowledge of the Language},
-                                        journal = {International Journal of Engineering Research and Technology}
-                                        }  </li>
-
-                                </ul>
-                            </div>
-
-                        </div>
+                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
 
                     </div>
-
                 </div>
+                <!-- Card Ends Here-->
+            </li>
 
-                <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
+            <li>
+                <!-- Card Begins Here-->
+                <div class="window m-4" style="width:100%">
+                    <div class="window-caption">
+                        <span class="title ml-2">Publication: The Journal of Competitive Programming</span>
+                    </div>
+                    <div class="window-content p-1 d-flex">
 
-            </div>
-        </div>
-        <!-- Card Ends Here-->
+                        <div  class="mr-auto text-small" style="width: 100%">
 
-        <!-- Card Begins Here-->
-        <div class="window m-4" style="width:100%">
-            <div class="window-caption">
-                <span class="title">Publication: The Journal of Competitive Programming</span>
-            </div>
-            <div class="window-content p-1 d-flex">
+                            <div class="card">
 
-                <div  class="mr-auto text-small" style="width: 100%">
+                                <div class="card-header">
+                                    <div class="avatar">
+                                        <img src="images/open_journal_logo.png">
+                                    </div>
+                                    <div class="name">The Journal of Competitive Programming.</div>
+                                    <div class="date"><span class="tally success">Journal Article</span><span class="ml-2 tally info">September 2020</span></div>
+                                </div>
 
-                    <div class="card">
+                                <div class="card-content">
 
-                        <div class="card-header">
-                            <div class="avatar">
-                                <img src="images/open_journal_logo.png">
+                                    <div class='m-2'>
+
+
+                                        <div class="m-4">This is a brief idea that discusses the importance of and need for the journal of competitive programming.</div>
+
+                                        <ul>
+                                            <li><strong>Article Name: </strong><a href='http://beta.briefideas.org/ideas/22d162eea10da254172a9d3bd3559749' target='_blank' rel='noopener noreferer'>The Journal of Competitive Programming.</a></li>
+                                            <li><strong>Type: </strong>Journal Article.</li>
+                                            <li><strong>Journal: </strong><a href='http://beta.briefideas.org' target='_blank' rel='noopener noreferer'>The Journal of Brief Ideas, Open Journals</a></li>
+                                            <li><strong>DOI: </strong>10.5281/zenodo.4047634}</li>
+                                            <li><strong>URL: </strong><a href='http://beta.briefideas.org/ideas/22d162eea10da254172a9d3bd3559749' target='_blank' rel='noopener noreferer'>http://beta.briefideas.org/ideas/22d162eea10da254172a9d3bd3559749</a></li>
+                                            <li><strong>Citation (bibtex): </strong>@article{ahire, deepak_2020, title={The Journal of Competitive Programming}, DOI={10.5281/zenodo.4047634}, abstractNote={A brief idea}, publisher={Zenodo}, author={Ahire, Deepak}, year={2020}, month={Sep}}  </li>
+
+                                        </ul>
+                                    </div>
+
+                                </div>
+
                             </div>
-                            <div class="name">The Journal of Competitive Programming.</div>
-                            <div class="date">September 2020.</div>
+
                         </div>
 
-                        <div class="card-content">
-
-                            <div class='m-2'>
-
-
-                                <div class="m-4">This is a brief idea that discusses the importance of and need for the journal of competitive programming.</div>
-
-                                <ul>
-                                    <li><strong>Article Name: </strong><a href='http://beta.briefideas.org/ideas/22d162eea10da254172a9d3bd3559749' target='_blank' rel='noopener noreferer'>The Journal of Competitive Programming.</a></li>
-                                    <li><strong>Type: </strong>Journal Article.</li>
-                                    <li><strong>Journal: </strong><a href='http://beta.briefideas.org' target='_blank' rel='noopener noreferer'>The Journal of Brief Ideas, Open Journals</a></li>
-                                    <li><strong>DOI: </strong>10.5281/zenodo.4047634}</li>
-                                    <li><strong>URL: </strong><a href='http://beta.briefideas.org/ideas/22d162eea10da254172a9d3bd3559749' target='_blank' rel='noopener noreferer'>http://beta.briefideas.org/ideas/22d162eea10da254172a9d3bd3559749</a></li>
-                                    <li><strong>Citation (bibtex): </strong>@article{ahire, deepak_2020, title={The Journal of Competitive Programming}, DOI={10.5281/zenodo.4047634}, abstractNote={A brief idea}, publisher={Zenodo}, author={Ahire, Deepak}, year={2020}, month={Sep}}  </li>
-
-                                </ul>
-                            </div>
-
-                        </div>
+                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
 
                     </div>
-
                 </div>
-
-                <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-            </div>
-        </div>
-        <!-- Card Ends Here-->
-
+                <!-- Card Ends Here-->
+            </li>
+        </ul>
     </div>
 
 </div>
