@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/jjmcoe_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/achievements/c_cipher_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/achievements/c_cipher_card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jj_magdum_logo.png" beforeDir="false" />
-    </list>
+    <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -251,7 +246,7 @@
       <workItem from="1612193145501" duration="1693000" />
       <workItem from="1612359301435" duration="1001000" />
       <workItem from="1612361009134" duration="132000" />
-      <workItem from="1612426962132" duration="113000" />
+      <workItem from="1612426962132" duration="396000" />
     </task>
     <servers />
   </component>
