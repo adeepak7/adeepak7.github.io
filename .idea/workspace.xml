@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/jjmcoe_logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/achievements/c_cipher_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/achievements/c_cipher_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jj_magdum_logo.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,26 +150,26 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/certifications/score_reports" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/data/certifications/score_reports" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/vendors" />
+      <recent name="$PROJECT_DIR$/data/media_coverage/media_coverage_pdfs" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data/icpc/icpc_videos" />
       <recent name="$PROJECT_DIR$/data/icpc/icpc_images" />
       <recent name="$PROJECT_DIR$/data/achievements" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data/service_outreach" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/data/certifications/score_reports" />
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/vendors" />
-      <recent name="$PROJECT_DIR$/data/media_coverage/media_coverage_pdfs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -248,7 +250,8 @@
       <workItem from="1610601327777" duration="3596000" />
       <workItem from="1612193145501" duration="1693000" />
       <workItem from="1612359301435" duration="1001000" />
-      <workItem from="1612361009134" duration="86000" />
+      <workItem from="1612361009134" duration="132000" />
+      <workItem from="1612426962132" duration="113000" />
     </task>
     <servers />
   </component>
