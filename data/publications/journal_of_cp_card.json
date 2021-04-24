@@ -1,0 +1,19 @@
+{
+  "data_position": "1",
+  "publication_year": "2020",
+  "publication_title": "The Journal of Competitive Programming",
+  "article_type": "Journal Article",
+  "authors": "<strong>Deepak Ahire</strong>",
+  "publishing_authority_name": "The Journal of Brief Ideas, Open Journals",
+  "host_version_html_name": "Open Journals Version",
+  "host_version": "http://beta.briefideas.org/ideas/22d162eea10da254172a9d3bd3559749",
+  "pdf_version_html_name": "",
+  "pdf_version": "",
+  "publication_code_html_name": "",
+  "publication_code": "",
+  "publication_video_demonstration_html_name": "",
+  "publication_video_demonstration": "",
+  "publish_abstract": true,
+  "publication_abstract": "Competitive Programming (CP) or Sports Programming is solving well-defined problem statements abiding by time and memory constraints with the help of sandboxed environments on computing machines, appropriate data structures, and algorithms. Many journals are related to algorithms and respective real-life uses, but not specific for CP. Currently, 19+ online coding platforms support 30+ programming languages. The top MNCs like FAANG also support CP and hire thousands of engineers proficient in CP. CP's scope is to test and improve analytical, mathematical, and problem-solving abilities and not necessarily the real-life problems. Much of the content related to CP present on the internet is redundant and scattered because of many websites, repositories, videos, and blogs managed by public and private communities, clubs, and organizations. All platforms are open for general discussions but lag an accepted peer-review process due to which a lot of content is either incomplete or incorrect. These scenarios make it difficult for someone who has developed a new algorithm and aims to publish it in a centralized peer-reviewed journal used and contributed to by everyone with open access. The author's rights and the credits for inventing new algorithms or new computing methods should be protected using a recognized journal whose scope is CP.",
+  "footer": ""
+}

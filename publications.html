@@ -3,7 +3,7 @@
     <div class="cell-lg-10 cell-md-10">
 
         <div class='ml-4'>
-            <select data-role="select" data-filter="false" data-prepend="Filter By Type:" data-on-change="$('#publications').data('list').filter(this.value)">
+            <select data-role="select" data-filter="false" data-prepend="Filter By Type:" data-on-change="custom_filter_list(this.value)">
                 <option value="" selected>All</option>
                 <option value="Journal Article">Journal Article</option>
                 <option value="Conference Article">Conference Article</option>
@@ -11,760 +11,79 @@
                 <option value="Algorithmic Problem Statement">Algorithmic Problem Statement</option>
             </select>
         </div>
-
-        <ul id="publications" data-role="list" data-cls-list="unstyled-list" data-sort-initial="false">
-
-            <li>
-
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2"><img style="width:80%;" src="data/publications/publications_images/k_max_title.png"></span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/springer_journal_logo.png">
-                                    </div>
-                                    <div class="name"><span><img style="width:60%;" src="data/publications/publications_images/k_max_header.png"></span></div>
-                                    <div class="date"><span class="tally success">Conference Article</span><span class="ml-2 tally info">Accepted - August 2020</span><span class="ml-2 tally alert">In stage of publication</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <div class='m-4'>Presented in the 8th International Conference on Innovations in Computer Science & Engineering (ICICSE), 2020, Hyderabad, India.</div>
-
-
-                                        <ul>
-                                            <li><strong>Submitted Article: </strong><a href='https://drive.google.com/file/d/1dUXzN70WGU6ytixMHlWQXgNOvTrUGcHf/view?usp=sharing' target="_blank" rel='noopener noreferer'>Camera-ready paper</a></li>
-                                            <li><strong>Will be published in: </strong><a href='https://www.springer.com/gp/book/9789813345423' target="_blank" rel='noopener noreferer'>Innovations in Computer Science and Engineering, Proceedings of 8th ICICSE.</a></li>
-                                            <li><strong>Series: </strong><a href='https://www.springer.com/series/15179' target="_blank" rel='noopener noreferer'>Lecture Notes in Networks and Systems (LNNS), Springer.</a></li>
-                                        </ul>
-
-                                        <!--<div class='m-4'><strong>NOTE: </strong>The article is in the stage of publication. The <strong><span class="fg-red">LINK</span> to access the accepted article has been provided in my CV.</strong> Kindly do not share or upload this article anywhere <strong>to avoid indexing by search engines or databases.</strong></div>-->
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: Video Over Intranet (VDOIT)</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/rio_journal_logo.jpg">
-                                    </div>
-                                    <div class="name">Video Over Intranet (VDOIT)</div>
-                                    <div class="date"><span class="tally success">Journal Article</span><span class="ml-2 tally info">2020</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <div class="img-container thumbnail mb-8"><img style="width:50%;" src="images/vdoit_logo.png"></div>
-
-                                        <div class="m-4">VDOIT is an on-demand, on-premise, and secure video calling service over the private cloud of private organizations that can be used without the use of any external hardware and free of cost.</div>
-
-                                        <ul>
-                                            <li><strong>Article Name: </strong><a href='https://doi.org/10.3897/rio.6.e58504' target='_blank' rel='noopener noreferer'>Video Over Intranet (VDOIT)</a></li>
-                                            <li><strong>Type: </strong>Journal Article.</li>
-                                            <li><strong>Journal: </strong><a href='https://riojournal.com' target='_blank' rel='noopener noreferer'>Research Ideas and Outcomes.</a></li>
-                                            <li><strong>DOI: </strong>10.3897/rio.6.e58504</li>
-                                            <li><strong>URL: </strong><a href='https://riojournal.com/article/58504/' target='_blank' rel='noopener noreferer'>https://riojournal.com/article/58504/</a></li>
-                                            <li><strong>Citation (bibtex): </strong>@article{Ahire_2020,
-                                                doi = {10.3897/rio.6.e58504},
-                                                url = {https://doi.org/10.3897%2Frio.6.e58504},
-                                                year = 2020,
-                                                month = {sep},
-                                                publisher = {Pensoft Publishers},
-                                                volume = {6},
-                                                author = {Deepak Ahire},
-                                                title = {Video Over Intranet ({VDOIT})},
-                                                journal = {Research Ideas and Outcomes}
-                                                } </li>
-
-                                            <li><strong>Code Repository: </strong><a href="https://github.com/adeepak7/Video-Over-Intranet " target='_blank' rel='noopener noreferer'>https://github.com/adeepak7/Video-Over-Intranet</a></li>
-                                            <li><strong>Live Demonstration: </strong><a href=" https://www.youtube.com/watch?v=nAwfaoq15N8 " target='_blank' rel='noopener noreferer'>Watch on Youtube.</a></li>
-                                        </ul>
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: Why Has The Number Of Combo Recommendations Decreased On E-commerce Platforms?</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/aim.jpg">
-                                    </div>
-                                    <div class="name">Why Has The Number Of Combo Recommendations Decreased On E-commerce Platforms?</div>
-                                    <div class="date"><span class="tally success">Magazine Article</span><span class="ml-2 tally info">2020</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-
-                                        <ul>
-                                            <li><strong>Article Name: </strong><a href='https://analyticsindiamag.com/why-has-the-number-of-combo-recommendations-decreased-on-e-commerce-platforms/' target='_blank' rel='noopener noreferer'>Why Has The Number Of Combo Recommendations Decreased On E-commerce Platforms?</a></li>
-                                            <li><strong>Type: </strong>Magazine Article.</li>
-                                            <li><strong>Magazine: </strong><a href='https://analyticsindiamag.com' target='_blank' rel='noopener noreferer'>Analytics India Magazine.</a></li>
-                                            <li><strong>URL: </strong><a href='https://analyticsindiamag.com/why-has-the-number-of-combo-recommendations-decreased-on-e-commerce-platforms/' target='_blank' rel='noopener noreferer'>https://analyticsindiamag.com/why-has-the-number-of-combo-recommendations-decreased-on-e-commerce-platforms//</a></li>
-                                            <li><strong>Citation (bibtex): </strong>@article{ahire_2020, title={Why Has The Number Of Combo Recommendations Decreased On E-commerce Platforms?}, url={https://analyticsindiamag.com/why-has-the-number-of-combo-recommendations-decreased-on-e-commerce-platforms/}, journal={Analytics India Magazine}, author={Ahire, Deepak Tatyaji}, year={2020}, month={Sep}} </li>
-
-                                        </ul>
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: Code Golfing by Gaining and using the Intimate Knowledge of the Language</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/ijert_logo.png">
-                                    </div>
-                                    <div class="name">Code Golfing by Gaining and using the Intimate Knowledge of the Language</div>
-                                    <div class="date"><span class="tally success">Journal Article</span><span class="ml-2 tally info">2020</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-
-                                        <div class="m-4">The FizzBuzz solution presented in the paper is <strong>ranked 5th on <a href="https://code.golf/scores/fizz-buzz/c" target="_blank" rel="noopener noreferer">Code Golf World Leaderboard </a></strong>(as of 1 September 2020).</div>
-                                        <div class="m-4"><strong>Search for username: </strong>adeepak7</div>
-                                        <ul>
-                                            <li><strong>Article Name: </strong><a href='https://www.ijert.org/research/code-golfing-by-gaining-and-using-the-intimate-knowledge-of-the-language-IJERTV9IS050756.pdf' target='_blank' rel='noopener noreferer'>Code Golfing by Gaining and using the Intimate Knowledge of the Language.</a></li>
-                                            <li><strong>Type: </strong>Journal Article.</li>
-                                            <li><strong>Journal: </strong><a href='https://riojournal.com' target='_blank' rel='noopener noreferer'>International Journal of Engineering Research & Technology (IJERT) Volume 09, Issue 05, May2020.</a></li>
-                                            <li><strong>DOI: </strong>http://dx.doi.org/10.17577/IJERTV9IS050756</li>
-                                            <li><strong>URL: </strong><a href='https://www.ijert.org/code-golfing-by-gaining-and-using-the-intimate-knowledge-of-the-language' target='_blank' rel='noopener noreferer'>https://www.ijert.org/code-golfing-by-gaining-and-using-the-intimate-knowledge-of-the-language</a></li>
-                                            <li><strong>Citation (bibtex): </strong>@article{Deepak_Ahire_2020,
-                                                doi = {10.17577/ijertv9is050756},
-                                                url = {https://doi.org/10.17577%2Fijertv9is050756},
-                                                year = 2020,
-                                                month = {jun},
-                                                publisher = {{ESRSA} Publications Pvt. Ltd.},
-                                                volume = {V9},
-                                                number = {05},
-                                                author = {Deepak Ahire and},
-                                                title = {Code Golfing by Gaining and using the Intimate Knowledge of the Language},
-                                                journal = {International Journal of Engineering Research and Technology}
-                                                }  </li>
-
-                                        </ul>
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: The Journal of Competitive Programming</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/open_journal_logo.png">
-                                    </div>
-                                    <div class="name">The Journal of Competitive Programming.</div>
-                                    <div class="date"><span class="tally success">Journal Article</span><span class="ml-2 tally info">2020</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-
-                                        <div class="m-4">This is a brief idea that discusses the importance of and need for the journal of competitive programming.</div>
-
-                                        <ul>
-                                            <li><strong>Article Name: </strong><a href='http://beta.briefideas.org/ideas/22d162eea10da254172a9d3bd3559749' target='_blank' rel='noopener noreferer'>The Journal of Competitive Programming.</a></li>
-                                            <li><strong>Type: </strong>Journal Article.</li>
-                                            <li><strong>Journal: </strong><a href='http://beta.briefideas.org' target='_blank' rel='noopener noreferer'>The Journal of Brief Ideas, Open Journals</a></li>
-                                            <li><strong>DOI: </strong>10.5281/zenodo.4047634}</li>
-                                            <li><strong>URL: </strong><a href='http://beta.briefideas.org/ideas/22d162eea10da254172a9d3bd3559749' target='_blank' rel='noopener noreferer'>http://beta.briefideas.org/ideas/22d162eea10da254172a9d3bd3559749</a></li>
-                                            <li><strong>Citation (bibtex): </strong>@article{ahire, deepak_2020, title={The Journal of Competitive Programming}, DOI={10.5281/zenodo.4047634}, abstractNote={A brief idea}, publisher={Zenodo}, author={Ahire, Deepak}, year={2020}, month={Sep}}  </li>
-
-                                        </ul>
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: Wrath of GOT</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/hackerrank.png">
-                                    </div>
-                                    <div class="name">Wrath of GOT</div>
-                                    <div class="date"><span class="tally success">Algorithmic Problem Statement</span><span class="ml-2 tally info">2016</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <strong>Problem Statement: </strong><a href='https://www.hackerrank.com/contests/code-fusion-2-0/challenges/xor-war' target='_blank' rel='noopener noreferer'>Wrath of GOT</a>
-                                        <br>
-                                        <strong>Solution: </strong><a href='https://www.hackerrank.com/contests/code-fusion-2-0/challenges/xor-war/editorial' target='_blank' rel='noopener noreferer'>Editorial</a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: "T-Bag"'s Encoding</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/hackerrank.png">
-                                    </div>
-                                    <div class="name">"T-Bag"'s Encoding</div>
-                                    <div class="date"><span class="tally success">Algorithmic Problem Statement</span><span class="ml-2 tally info">2016</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <strong>Problem Statement: </strong><a href='https://www.hackerrank.com/contests/code-fusion-i-1/challenges/t-bag-and-encoding' target='_blank' rel='noopener noreferer'>"T-Bag"'s Encoding</a>
-                                        <br>
-                                        <strong>Solution: </strong><a href='https://www.hackerrank.com/contests/code-fusion-i-1/challenges/t-bag-and-encoding/editorial' target='_blank' rel='noopener noreferer'>Editorial</a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: The Final Escape</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/hackerrank.png">
-                                    </div>
-                                    <div class="name">The Final Escape</div>
-                                    <div class="date"><span class="tally success">Algorithmic Problem Statement</span><span class="ml-2 tally info">2016</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <strong>Problem Statement: </strong><a href='https://www.hackerrank.com/contests/code-fusion-i-1/challenges/naming-ceremony' target='_blank' rel='noopener noreferer'>The Final Escape</a>
-                                        <br>
-                                        <strong>Solution: </strong><a href='https://www.hackerrank.com/contests/code-fusion-i-1/challenges/naming-ceremony/editorial' target='_blank' rel='noopener noreferer'>Editorial</a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: Build It!</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/hackerrank.png">
-                                    </div>
-                                    <div class="name">Build It!</div>
-                                    <div class="date"><span class="tally success">Algorithmic Problem Statement</span><span class="ml-2 tally info">2016</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <strong>Problem Statement: </strong><a href='https://www.hackerrank.com/contests/game-of-codes-grand-finaleexpert/challenges/build-it' target='_blank' rel='noopener noreferer'>Build It!</a>
-                                        <br>
-                                        <strong>Solution: </strong><a href='https://www.hackerrank.com/contests/game-of-codes-grand-finaleexpert/challenges/build-it/editorial' target='_blank' rel='noopener noreferer'>Editorial</a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: Lincon And The Subsets</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/hackerrank.png">
-                                    </div>
-                                    <div class="name">Lincon And The Subsets</div>
-                                    <div class="date"><span class="tally success">Algorithmic Problem Statement</span><span class="ml-2 tally info">2016</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <strong>Problem Statement: </strong><a href='https://www.hackerrank.com/contests/code-fusion-i-1/challenges/lincon-and-the-subsets' target='_blank' rel='noopener noreferer'>Lincon And The Subsets</a>
-                                        <br>
-                                        <strong>Solution: </strong><a href='https://www.hackerrank.com/contests/code-fusion-i-1/challenges/lincon-and-the-subsets/editorial' target='_blank' rel='noopener noreferer'>Editorial</a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: Scofield And Password</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/hackerrank.png">
-                                    </div>
-                                    <div class="name">Scofield And Password.</div>
-                                    <div class="date"><span class="tally success">Algorithmic Problem Statement</span><span class="ml-2 tally info">2016</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <strong>Problem Statement: </strong><a href='https://www.hackerrank.com/contests/code-fusion-i-1/challenges/scofieldandpassword/' target='_blank' rel='noopener noreferer'>Scofield And Password.</a>
-                                        <br>
-                                        <strong>Solution: </strong><a href='https://www.hackerrank.com/contests/code-fusion-i-1/challenges/scofieldandpassword/editorial' target='_blank' rel='noopener noreferer'>Editorial</a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: Dumb Sucre</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/hackerrank.png">
-                                    </div>
-                                    <div class="name">Dumb Sucre</div>
-                                    <div class="date"><span class="tally success">Algorithmic Problem Statement</span><span class="ml-2 tally info">2016</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <strong>Problem Statement: </strong><a href='https://www.hackerrank.com/contests/code-fusion-i-1/challenges/dumb-sucre' target='_blank' rel='noopener noreferer'>Dumb Sucre</a>
-                                        <br>
-                                        <strong>Solution: </strong><a href='https://www.hackerrank.com/contests/code-fusion-i-1/challenges/dumb-sucre/editorial' target='_blank' rel='noopener noreferer'>Editorial</a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: Prom Ibiza</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/hackerrank.png">
-                                    </div>
-                                    <div class="name">Prom Ibiza</div>
-                                    <div class="date"><span class="tally success">Algorithmic Problem Statement</span><span class="ml-2 tally info">2016</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <strong>Problem Statement: </strong><a href='https://www.hackerrank.com/contests/code-fusion-2-0/challenges/prom-ibiza' target='_blank' rel='noopener noreferer'>Prom Ibiza</a>
-                                        <br>
-                                        <strong>Solution: </strong><a href='https://www.hackerrank.com/contests/code-fusion-2-0/challenges/prom-ibiza/editorial' target='_blank' rel='noopener noreferer'>Editorial</a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: MAX-OR</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/hackerrank.png">
-                                    </div>
-                                    <div class="name">MAX-OR</div>
-                                    <div class="date"><span class="tally success">Algorithmic Problem Statement</span><span class="ml-2 tally info">2017</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <strong>Problem Statement: </strong><a href='https://www.hackerrank.com/contests/code-fusion-3-0/challenges/max-or' target='_blank' rel='noopener noreferer'>MAX-OR</a>
-                                        <br>
-                                        <strong>Solution: </strong><a href='https://www.hackerrank.com/contests/code-fusion-3-0/challenges/max-or/editorial' target='_blank' rel='noopener noreferer'>Editorial</a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: Favourite Shape</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/hackerrank.png">
-                                    </div>
-                                    <div class="name">Favourite Shape</div>
-                                    <div class="date"><span class="tally success">Algorithmic Problem Statement</span><span class="ml-2 tally info">2017</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <strong>Problem Statement: </strong><a href='https://www.hackerrank.com/contests/code-fusion-3-0/challenges/favourite-shape' target='_blank' rel='noopener noreferer'>Favourite Shape</a>
-                                        <br>
-                                        <strong>Solution: </strong><a href='https://www.hackerrank.com/contests/code-fusion-3-0/challenges/favourite-shape/editorial' target='_blank' rel='noopener noreferer'>Editorial</a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-            <li>
-                <!-- Card Begins Here-->
-                <div class="window m-4" style="width:100%">
-                    <div class="window-caption">
-                        <span class="title ml-2">Publication: Industrial Visit</span>
-                    </div>
-                    <div class="window-content p-1 d-flex">
-
-                        <div  class="mr-auto text-small" style="width: 100%">
-
-                            <div class="card">
-
-                                <div class="card-header">
-                                    <div class="avatar">
-                                        <img src="images/hackerrank.png">
-                                    </div>
-                                    <div class="name">Industrial Visit</div>
-                                    <div class="date"><span class="tally success">Algorithmic Problem Statement</span><span class="ml-2 tally info">2017</span></div>
-                                </div>
-
-                                <div class="card-content">
-
-                                    <div class='m-2'>
-
-                                        <strong>Problem Statement: </strong><a href='https://www.hackerrank.com/contests/code-fusion-3-0/challenges/industrial-visit' target='_blank' rel='noopener noreferer'>Industrial Visit</a>
-                                        <br>
-                                        <strong>Solution: </strong><a href='https://www.hackerrank.com/contests/code-fusion-3-0/challenges/industrial-visit/editorial' target='_blank' rel='noopener noreferer'>Editorial</a>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!--<div id="card-tags" class="border-left bd-black border-size-1 p-1 text-small" style="width: 30%">Quick Links</div>-->
-
-                    </div>
-                </div>
-                <!-- Card Ends Here-->
-            </li>
-
-        </ul>
+        <ul id="publications" data-role="list" data-cls-list="unstyled-list" data-sort-class="publication_year_class" data-sort-dir="desc"></ul>
     </div>
 
 </div>
+
+<script>
+
+    $.ajaxSetup({ cache: false });
+
+    function custom_filter_list(filter_value){
+        var value = filter_value.toLowerCase();
+        $("#publications li").each(function () {
+            if ($(this).text().toLowerCase().search(value) > -1) {
+                $(this).show();
+            } else {
+                $(this).hide();
+            }
+        });
+    }
+
+    function loadIndex(){
+
+        //console.log('loadIndex function called');
+
+        const dataPath = "data/publications/publications.json";
+
+        //Important in case of multiple events fired
+        if ($('#publications').children().length > 0 ) {
+            //console.log('Index not empty');
+            $("#publications").empty();
+        }
+
+        $.getJSON(dataPath)
+            .done(function(data){
+                //console.log(data);
+
+                if ($('#publications_list').children().length > 0 ) {
+                    //console.log('Index not empty');
+                    $("#publications_list").empty();
+                }
+
+                for(let i=0;i<data.index_id.length;i++){
+                    let listId = data.index_id[i];
+
+                    async function doAsyncJOb(){
+                        await makeListItem(listId);
+                    }
+                    doAsyncJOb();
+                }
+
+            }).fail(function () {
+
+        })
+    }
+
+    loadIndex();
+
+    async function makeListItem(listId){
+
+        //console.log("Request to load content received", tab.id);
+        const dataPath = "data/publications/" + listId + "_card.json";
+
+        $.getJSON(dataPath)
+            .done(function(data){
+                //console.log(data);
+
+                let card_body = '<li> <div class="card m-4"> <div class="card-content"> <div class=\'row m-2\'> <div class="cell-lg-9 cell-md-9"> <div class=\'m-4\'> <h4 id=\'publication_title\'>' + data.publication_title + '</h4> </div> <div class=\'article_filter_class m-4\'> <span id=\'article_type\' class="tally success text-bold">' + data.article_type + '</span><br> <div id=\'authors\'>' + data.authors + '</div> </div> <div class=\'ml-4\' id=\'publishing_authority\'> <div id=\'publishing_authority_name\'>' + data.publishing_authority_name + '</div> </div> <div class=\'ml-4\'> <div> Publication Year: </div> <div class=\'publication_year_class\' data-format=\'int\' >' +  data.publication_year + '</div> </div> <div class=\'ml-4 mt-4\' id=\'publication_content\'> <div id=\'one_liner_content\'> <span id=\'host_version\'><a href=' + data.host_version + ' target=\'_blank\' rel=\'noopener noreferer\'>' + data.host_version_html_name + '</a></span>' +  ((data.pdf_version!=null && data.pdf_version!==undefined && data.pdf_version!=="")? ' | ':'') + '<span id=\'pdf_version\'><a href=' + data.pdf_version + ' target=\'_blank\' rel=\'noopener noreferer\'>' + data.pdf_version_html_name + '</a></span>' +  ((data.publication_code!=null && data.publication_code!==undefined && data.publication_code!=="")? ' | ':'') + '<span id=\'publication_code\'><a href=' + data.publication_code + ' target=\'_blank\' rel=\'noopener noreferer\'>' + data.publication_code_html_name + '</a></span>' +  ((data.publication_video_demonstration!=null && data.publication_video_demonstration!==undefined && data.publication_video_demonstration!=="")? ' | ':'') + '<span id=\'publication_youtube_demonstration\'><a href=' + data.publication_video_demonstration + ' target=\'_blank\' rel=\'noopener noreferer\'>' + data.publication_video_demonstration_html_name + '</a></span> </div> <div class=\'mt-2\'>' + ((data.publish_abstract) ? '<button class="button" id="publication_abstract_button">Abstract</button>' : "") + '<div class="pos-relative"> <div class="bg-white fg-black" data-role="collapse" data-toggle-element="#publication_abstract_button" data-collapsed="true"> <p id=\'publication_abstract\' class="p-10 text-center">' + data.publication_abstract + '</p> </div> </div> </div> </div> </div> </div> </div> </div> </li>';
+                $("#publications").append(card_body);
+
+            }).fail(function () {
+
+        });
+    }
+
+</script>
 

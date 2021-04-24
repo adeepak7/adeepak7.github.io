@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/certifications/coursera_gp_get_familiar_with_ml_card.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/coursera_project_network_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/publications/build_it_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/publications/journal_of_cp_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/publications/kth_max_sum_pair_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/publications/lincon_and_subsets_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/publications/publications.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/publications/scofield_and_password_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/publications/tbag_encoding_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/publications/the_final_escape_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/publications/vdoit_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/publications/why_has_combo_recommendations_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/publications/wrath_of_got_card.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/certifications/certifications.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/certifications/certifications.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mentorship/mentorship.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/mentorship/mentorship.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vdoit_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/vdoit_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,9 +159,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -165,11 +178,11 @@
       <recent name="$PROJECT_DIR$/data/media_coverage/media_coverage_pdfs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/publications" />
       <recent name="$PROJECT_DIR$/data/icpc/icpc_videos" />
       <recent name="$PROJECT_DIR$/data/icpc/icpc_images" />
       <recent name="$PROJECT_DIR$/data/achievements" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/data/service_outreach" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -256,7 +269,19 @@
       <workItem from="1612461085225" duration="1272000" />
       <workItem from="1612602163857" duration="537000" />
       <workItem from="1612625590990" duration="713000" />
-      <workItem from="1612642290811" duration="662000" />
+      <workItem from="1612642290811" duration="782000" />
+      <workItem from="1614159857425" duration="10064000" />
+      <workItem from="1614361522571" duration="749000" />
+      <workItem from="1614854259459" duration="10199000" />
+      <workItem from="1614935947277" duration="1964000" />
+      <workItem from="1615899024336" duration="1563000" />
+      <workItem from="1615920361609" duration="397000" />
+      <workItem from="1615969656369" duration="1934000" />
+      <workItem from="1616258701064" duration="27000" />
+      <workItem from="1616258762233" duration="238000" />
+      <workItem from="1616348697454" duration="476000" />
+      <workItem from="1616432764335" duration="549000" />
+      <workItem from="1619241225128" duration="5919000" />
     </task>
     <servers />
   </component>
