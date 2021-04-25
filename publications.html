@@ -11,6 +11,16 @@
                 <option value="Algorithmic Problem Statement">Algorithmic Problem Statement</option>
             </select>
         </div>
+        <div class='ml-4'>
+            <span>Sort by year:</span>
+            <span>
+                <button class="button m-1" onclick="sortDesc()">Desc <span class="mif-arrow-up"></span></button>
+            </span>
+            <span>
+                <button class="button m-1" onclick="sortAsc()">Asc <span class="mif-arrow-down"></span></button>
+            </span>
+        </div>
+
         <ul id="publications" data-role="list" data-cls-list="unstyled-list" data-sort-class="publication_year_class" data-sort-dir="desc"></ul>
     </div>
 
@@ -77,12 +87,29 @@
             .done(function(data){
                 //console.log(data);
 
-                let card_body = '<li> <div class="card m-4"> <div class="card-content"> <div class=\'row m-2\'> <div class="cell-lg-9 cell-md-9"> <div class=\'m-4\'> <h4 id=\'publication_title\'>' + data.publication_title + '</h4> </div> <div class=\'article_filter_class m-4\'> <span id=\'article_type\' class="tally success text-bold">' + data.article_type + '</span><br> <div id=\'authors\'>' + data.authors + '</div> </div> <div class=\'ml-4\' id=\'publishing_authority\'> <div id=\'publishing_authority_name\'>' + data.publishing_authority_name + '</div> </div> <div class=\'ml-4\'> <div> Publication Year: </div> <div class=\'publication_year_class\' data-format=\'int\' >' +  data.publication_year + '</div> </div> <div class=\'ml-4 mt-4\' id=\'publication_content\'> <div id=\'one_liner_content\'> <span id=\'host_version\'><a href=' + data.host_version + ' target=\'_blank\' rel=\'noopener noreferer\'>' + data.host_version_html_name + '</a></span>' +  ((data.pdf_version!=null && data.pdf_version!==undefined && data.pdf_version!=="")? ' | ':'') + '<span id=\'pdf_version\'><a href=' + data.pdf_version + ' target=\'_blank\' rel=\'noopener noreferer\'>' + data.pdf_version_html_name + '</a></span>' +  ((data.publication_code!=null && data.publication_code!==undefined && data.publication_code!=="")? ' | ':'') + '<span id=\'publication_code\'><a href=' + data.publication_code + ' target=\'_blank\' rel=\'noopener noreferer\'>' + data.publication_code_html_name + '</a></span>' +  ((data.publication_video_demonstration!=null && data.publication_video_demonstration!==undefined && data.publication_video_demonstration!=="")? ' | ':'') + '<span id=\'publication_youtube_demonstration\'><a href=' + data.publication_video_demonstration + ' target=\'_blank\' rel=\'noopener noreferer\'>' + data.publication_video_demonstration_html_name + '</a></span> </div> <div class=\'mt-2\'>' + ((data.publish_abstract) ? '<button class="button" id="publication_abstract_button">Abstract</button>' : "") + '<div class="pos-relative"> <div class="bg-white fg-black" data-role="collapse" data-toggle-element="#publication_abstract_button" data-collapsed="true"> <p id=\'publication_abstract\' class="p-10 text-center">' + data.publication_abstract + '</p> </div> </div> </div> </div> </div> </div> </div> </div> </li>';
+                let card_body = '<li data-position=\''+ data.data_position + '\'> <div class="card m-4"> <div class="card-content"> <div class=\'row m-2\'> <div class="cell-lg-9 cell-md-9"> <div class=\'m-4\'> <h4 id=\'publication_title\'>' + data.publication_title + '</h4> </div> <div class=\'article_filter_class m-4\'> <span id=\'article_type\' class="tally success text-bold">' + data.article_type + '</span><br> <div id=\'authors\'>' + data.authors + '</div> </div> <div class=\'ml-4\' id=\'publishing_authority\'> <div id=\'publishing_authority_name\'>' + data.publishing_authority_name + '</div> </div> <div class=\'ml-4\'> <span> Publication Year: </span> <span class=\'publication_year_class\' data-format=\'int\' >' +  data.publication_year + '</span> </div> <div class=\'ml-4 mt-4\' id=\'publication_content\'> <div id=\'one_liner_content\'> <span id=\'host_version\'><a href=' + data.host_version + ' target=\'_blank\' rel=\'noopener noreferer\'>' + data.host_version_html_name + '</a></span>' +  ((data.pdf_version!=null && data.pdf_version!==undefined && data.pdf_version!=="")? ' | ':'') + '<span id=\'pdf_version\'><a href=' + data.pdf_version + ' target=\'_blank\' rel=\'noopener noreferer\'>' + data.pdf_version_html_name + '</a></span>' +  ((data.publication_code!=null && data.publication_code!==undefined && data.publication_code!=="")? ' | ':'') + '<span id=\'publication_code\'><a href=' + data.publication_code + ' target=\'_blank\' rel=\'noopener noreferer\'>' + data.publication_code_html_name + '</a></span>' +  ((data.publication_video_demonstration!=null && data.publication_video_demonstration!==undefined && data.publication_video_demonstration!=="")? ' | ':'') + '<span id=\'publication_youtube_demonstration\'><a href=' + data.publication_video_demonstration + ' target=\'_blank\' rel=\'noopener noreferer\'>' + data.publication_video_demonstration_html_name + '</a></span> </div> <div class=\'mt-2\'>' + ((data.publish_abstract) ? '<button class="button" id="publication_abstract_button">Abstract</button>' : "") + '<div class="pos-relative"> <div class="bg-white fg-black" data-role="collapse" data-toggle-element="#publication_abstract_button" data-collapsed="true"> <p id=\'publication_abstract\' class="p-10 text-center">' + data.publication_abstract + '</p> </div> </div> </div> </div> </div> </div> </div> </div> </li>';
                 $("#publications").append(card_body);
 
             }).fail(function () {
 
         });
+    }
+
+
+    function sortLiElementsAsc(a,b) {
+        return parseInt($(a).data('position')) -   parseInt($(b).data('position'));
+    }
+
+    function sortLiElementsDesc(a,b) {
+        return parseInt($(b).data('position')) -   parseInt($(a).data('position'));
+    }
+
+    function sortAsc() {
+        $('#publications').html($('#publications li').sort(sortLiElementsAsc));
+    }
+
+    function sortDesc() {
+        $('#publications').html($('#publications li').sort(sortLiElementsDesc));
     }
 
 </script>

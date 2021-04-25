@@ -25,7 +25,7 @@ $(function(){
         var href = $(this).attr("href");
         var hash;
 
-        console.log("HREF: ", href);
+        //console.log("HREF: ", href);
 
 
         if (href === "#") {
