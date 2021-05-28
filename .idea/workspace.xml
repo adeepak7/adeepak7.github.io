@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/publications/comm_find_all_edges_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/adeepak7.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/adeepak7.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/publications/kth_max_sum_pair_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/kth_max_sum_pair_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/publications.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/publications.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/vdoit_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/vdoit_card.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +273,9 @@
       <workItem from="1616432764335" duration="549000" />
       <workItem from="1619241225128" duration="6075000" />
       <workItem from="1619370498906" duration="1169000" />
-      <workItem from="1619451996521" duration="214000" />
+      <workItem from="1619451996521" duration="455000" />
+      <workItem from="1620653537933" duration="488000" />
+      <workItem from="1622206866517" duration="389000" />
     </task>
     <servers />
   </component>

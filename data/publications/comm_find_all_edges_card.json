@@ -1,0 +1,19 @@
+{
+  "data_position": "5",
+  "publication_year": "2021",
+  "publication_title": "Methods to find all the edges on any of the shortest paths between two given nodes of a directed acyclic graph",
+  "article_type": "Journal Article",
+  "authors": "<strong>Deepak Ahire</strong>, Omkar Jadhav",
+  "publishing_authority_name": "Research Ideas and Outcomes 7: e68600",
+  "host_version_html_name": "RIO Journal Version",
+  "host_version": "https://doi.org/10.3897/rio.7.e68600",
+  "pdf_version_html_name": "",
+  "pdf_version": "",
+  "publication_code_html_name": "",
+  "publication_code": "",
+  "publication_video_demonstration_html_name": "",
+  "publication_video_demonstration": "",
+  "publish_abstract": true,
+  "publication_abstract": "This article puts forth all the existing methods proposed by the various authors of the Stack Exchange community to find all the edges on any shortest path between two given nodes of a directed acyclic graph. For a directed acyclic graph with N number of nodes, an exponential number of paths are possible between any two given nodes and, thus, it is not feasible to compute every path and find the shortest ones in polynomial time to generate a set of all edges that contribute or make any of the shortest paths. The methods discussed in this article are not limited only to this specific use case, but have a much broader scope in graph theory, dynamic programming and counting problems. Generally, various other questions and answers, raised on the community portal having similar scope to those that the users specifically seek, do not receive sufficient hits and, hence, enough attention and votes for various reasons worth contemplating. Therefore, this article also aims to highlight the various scopes of the methods discussed in this article and acknowledge the efforts of the authors, moderators and contributors of the Stack Exchange community for their expertise and time to write precise answers and share their opinions and advice. Finally, it also appeals to all the other beneficiaries in the community to use their privileges responsibly and upvote the posted answers, if they helped solve their queries, as one upvote is free of cost.",
+  "footer": ""
+}
