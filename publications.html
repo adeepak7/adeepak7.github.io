@@ -115,7 +115,7 @@
         $('#publications').html($('#publications li').sort(sortLiElementsDesc));
     }
 
-    const wrapper = document.getElementById('publications');
+    var wrapper = document.getElementById('publications');
 
     wrapper.addEventListener('click', (event) => {
         const isButton = event.target.nodeName === 'BUTTON';

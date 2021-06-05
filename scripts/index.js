@@ -27,6 +27,12 @@ $(function(){
 
         //console.log("HREF: ", href);
 
+        var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+        if (isMobile) {
+            var nv = $("#navview_id").data("navview");
+            //console.log(nv);
+            nv.close();
+        }
 
         if (href === "#") {
             return false;
