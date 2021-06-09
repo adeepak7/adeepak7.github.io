@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/certifications/score_reports/intro_to_stats_transcript.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/certifications/sophia_intro_to_stats_card.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/certifications/certifications.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/certifications/certifications.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/certifications/sophia_foundations_of_stats_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/certifications/sophia_foundations_of_stats_card.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +153,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/certifications/score_reports" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -160,8 +161,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/data/certifications/score_reports" />
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/vendors" />
       <recent name="$PROJECT_DIR$/data/media_coverage/media_coverage_pdfs" />
@@ -282,7 +283,9 @@
       <workItem from="1622739452925" duration="2544000" />
       <workItem from="1622793679791" duration="89000" />
       <workItem from="1622900092103" duration="2767000" />
-      <workItem from="1622906387992" duration="2203000" />
+      <workItem from="1622906387992" duration="2751000" />
+      <workItem from="1623002568434" duration="482000" />
+      <workItem from="1623248611787" duration="1342000" />
     </task>
     <servers />
   </component>
