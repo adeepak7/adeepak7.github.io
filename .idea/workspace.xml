@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/certifications/score_reports/intro_to_stats_transcript.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/certifications/sophia_intro_to_stats_card.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/certifications/certifications.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/certifications/certifications.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/certifications/sophia_foundations_of_stats_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/certifications/sophia_foundations_of_stats_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/why_has_combo_recommendations_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/why_has_combo_recommendations_card.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,7 +282,8 @@
       <workItem from="1622900092103" duration="2767000" />
       <workItem from="1622906387992" duration="2751000" />
       <workItem from="1623002568434" duration="482000" />
-      <workItem from="1623248611787" duration="1342000" />
+      <workItem from="1623248611787" duration="1432000" />
+      <workItem from="1623397745932" duration="280000" />
     </task>
     <servers />
   </component>
