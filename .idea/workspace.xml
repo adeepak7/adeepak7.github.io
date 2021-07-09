@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/achievements/stepik_bioinformatics_contest_2021_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/publications/find_all_edges_parallel_computing_card.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bioinformatics_contest_2021.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/publications/why_has_combo_recommendations_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/why_has_combo_recommendations_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/achievements/achievements.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/achievements/achievements.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/comm_find_all_edges_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/comm_find_all_edges_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/kth_max_sum_pair_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/kth_max_sum_pair_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/publications.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/publications.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +156,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/certifications/score_reports" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -158,8 +164,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/data/certifications/score_reports" />
       <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/data/certifications/score_reports" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/vendors" />
       <recent name="$PROJECT_DIR$/data/media_coverage/media_coverage_pdfs" />
@@ -284,6 +290,9 @@
       <workItem from="1623002568434" duration="482000" />
       <workItem from="1623248611787" duration="1432000" />
       <workItem from="1623397745932" duration="280000" />
+      <workItem from="1625222800546" duration="21000" />
+      <workItem from="1625233607230" duration="2032000" />
+      <workItem from="1625860642983" duration="134000" />
     </task>
     <servers />
   </component>
