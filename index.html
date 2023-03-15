@@ -148,8 +148,18 @@
     </div>
 
     <div class="navview-content h-100">
-        <div data-role="appbar" class="pos-absolute bg-darkCyan fg-white">
-            <a href="#" class="app-bar-item d-block d-none-lg" id="paneToggle"><span class="mif-menu"></span></a>
+        <div data-role="appbar" class="pos-absolute bg-darkCyan fg-white app-bar" data-role-appbar="true" data-ol-has-click-handler=""><button type="button" class="hamburger menu-down hidden" style="display: none;"><span class="line"></span><span class="line"></span><span class="line"></span></button>
+
+            <a href="#" class="app-bar-item d-block d-none-lg" id="paneToggle" data-ol-has-click-handler=""><span class="mif-menu"></span></a>
+
+            <div class="app-bar-container ml-auto">
+                <div class="app-bar-container">
+                    <a href="#" class="app-bar-item" data-ol-has-click-handler="">
+                        <img src="images/india_flag.png" class="avatar" style="margin: 2%">
+                        <img src="images/united_states_flag.png" class="avatar" style="margin: 2%">
+                    </a>
+                </div>
+            </div>
         </div>
 
         <div id="content-wrapper" class="content-inner h-100" style="overflow-y: auto;"></div>
