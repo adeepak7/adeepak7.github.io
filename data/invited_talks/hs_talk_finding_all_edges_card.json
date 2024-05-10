@@ -1,0 +1,8 @@
+{
+  "title": "HelpShift Engineering Talk - Finding all edges on any smallest path between 2 nodes in a DAG",
+  "logo": "images/helpshift_engineering_logo.png",
+  "name": "HelpShift Engineering Talk - Finding all edges on any smallest path between 2 nodes in a DAG",
+  "date": "August 2022",
+  "body": "<div class='row m-2'>\n<div class=\"d-flex\">\n<div class='m-2'><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fyO3dpeC5b0?si=5emRdiZUdxS9Dp7y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div> \n\n<div class='m-2'>In this session, I have shared some key insights about my latest research. I have designed an algorithm with the goal of identifying all edges along the shortest path connecting two nodes within a directed acyclic graph (DAG). To access the full article, please browse the <b>\"Publications\"</b> section.\n</br>\n</br>\nI thank HelpShift for providing me with this opportunity.\n</br>\n</br>\n<strong>Watch on HelpShift Engineering Youtube Channel: </strong><a href='https://www.youtube.com/watch?v=fyO3dpeC5b0' target='_blank' rel='no opener noreferer'>HS Talk - Finding all edges on any smallest path between 2 nodes in a DAG - Deepak</a>\n</div>\n</div>",
+  "footer": ""
+}

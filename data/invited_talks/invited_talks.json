@@ -1,6 +1,4 @@
 {
-  "index": ["WCE Placement Talk 2018"],
-
-  "index_id": [ "wce_placement_talk_2018"]
-
+  "index": ["<p style=\"text-align: left;\">Finding all edges on any smallest path between 2 nodes in a DAG</p>"],
+  "index_id": ["hs_talk_finding_all_edges"]
 }
