@@ -43,3 +43,9 @@ body{
     display: flex;
   }
 }
+
+.tight-lines {
+  line-height: 1; /* Adjust as needed */
+  margin: 0; /* Removes extra spacing */
+  padding: 0;
+}

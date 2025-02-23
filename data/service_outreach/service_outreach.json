@@ -1,6 +1,36 @@
 {
-  "index": ["Social IT Awareness Campaign", "Stack Overflow Contributions", "Sangli First Entrepreneurship Fair 2018", "Weekly Club Service", "C Workshop", "WCE Alumni Meet", "ACSES General Interest Meet"],
-
-  "index_id": ["sitac", "so_contributions", "sangli_first_fair", "weekly_club_service", "c_workshop", "wce_alumni_meet", "acses_gim"]
-
+  "index": [
+    "Roche CSR 2024",
+    "Social Information Technology Awareness Campaign (SITAC)",
+    "SITAC 2017",
+    "SITAC 2016",
+    "SITAC 2015",
+    "Weekly Club Service",
+    "C Workshop",
+    "ACSES Mock Interviews",
+    "Sangli First Entrepreneurship Fair 2018",
+    "WCE Alumni Meet",
+    "ACSES General Interest Meet",
+    "WCE Covid-19 Visitor Management",
+    "Founding Member of WCE Codepals",
+    "Mentor to Coding Expert, ACSES",
+    "Stack Overflow Contributions"
+  ],
+  "index_id": [
+    "roche_csr_2024",
+    "sitac",
+    "sitac_2018",
+    "sitac_2017",
+    "sitac_2016",
+    "weekly_club_service",
+    "c_workshop",
+    "interviews",
+    "sangli_first_fair",
+    "wce_alumni_meet",
+    "acses_gim",
+    "wce_covid19_visitor_management",
+    "founding_member_of_wce_codepals",
+    "mentor_to_coding_expert",
+    "so_contributions"
+  ]
 }
