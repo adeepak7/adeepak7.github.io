@@ -5,19 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30440432-e58d-47f1-8e81-6045bc958b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/google_scholar_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plant360_logo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/velotio_logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/achievements/achievements_images/roche_msft_hack.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/achievements/roche_msft_hack_2024_card.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/adeepak7.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/achievements/achievements.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/achievements/achievements.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/build_it_card.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/comm_find_all_edges_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/comm_find_all_edges_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/find_all_edges_parallel_computing_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/find_all_edges_parallel_computing_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/hs_talk_finding_all_edges_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/hs_talk_finding_all_edges_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/journal_of_cp_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/journal_of_cp_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/kth_max_sum_pair_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/kth_max_sum_pair_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/lincon_and_subsets_card.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/mlflow_at_helpshift_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/mlflow_at_helpshift_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/printf_atomic_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/printf_atomic_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/scofield_and_password_card.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/tbag_encoding_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/tbag_encoding_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/the_final_escape_card.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/vdoit_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/vdoit_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/why_has_combo_recommendations_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/why_has_combo_recommendations_card.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/publications/wrath_of_got_card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/publications/wrath_of_got_card.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,9 +136,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="25" />
     <option name="width" value="1680" />
@@ -161,8 +171,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/deepakahire/Documents/my_projects/adeepak7.github.io/images",
+    "last_opened_file_path": "/home/ahired/Documents/my_projects/adeepak7.github.io/data/achievements/achievements_images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -173,24 +184,24 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/achievements/achievements_images" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/data/cv" />
       <recent name="$PROJECT_DIR$/data/certifications/score_reports" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/vendors" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/service_outreach" />
       <recent name="$PROJECT_DIR$/data/publications" />
       <recent name="$PROJECT_DIR$/data/icpc/icpc_videos" />
       <recent name="$PROJECT_DIR$/data/icpc/icpc_images" />
       <recent name="$PROJECT_DIR$/data/achievements" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
       </set>
     </attachedChunks>
   </component>
@@ -311,6 +322,16 @@
       <workItem from="1625860642983" duration="360000" />
       <workItem from="1626196664696" duration="785000" />
       <workItem from="1712508402080" duration="899000" />
+      <workItem from="1738425757328" duration="664000" />
+      <workItem from="1738607565262" duration="660000" />
+      <workItem from="1738855166637" duration="656000" />
+      <workItem from="1738863261972" duration="1385000" />
+      <workItem from="1739381234476" duration="623000" />
+      <workItem from="1739616843664" duration="3276000" />
+      <workItem from="1740251103511" duration="642000" />
+      <workItem from="1740321325719" duration="3712000" />
+      <workItem from="1740585902089" duration="2614000" />
+      <workItem from="1740595092778" duration="4064000" />
     </task>
     <servers />
   </component>

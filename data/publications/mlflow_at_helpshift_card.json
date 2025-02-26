@@ -13,6 +13,8 @@
   "publication_code": "",
   "publication_video_demonstration_html_name": "",
   "publication_video_demonstration": "",
+  "official_acknowledgement_html_name": "Official acknowledgement from MLFlow on Twitter",
+  "official_acknowledgement_version": "https://x.com/mlflow/status/1597970771644661760?s=48",
   "publish_abstract": true,
   "publication_abstract": "There are a lot of blogs out there that talk about how to get onboarded with or integrate MLflow in your machine learning pipelines. But this blog aims to share our learning experience on introducing MLflow as part of our production machine learning pipeline. We kicked off with onboarding HelpShift’s flagship feature — “Smart Intents” [1–5], on the MLflow.\n\nIn this blog, we have discussed —\n\nWhy we chose MLflow?\nThe challenges we faced in maintaining our legacy AI model versioning code.\nThe challenges we faced during the migration of our existing ML models.\nThe surprise that we got on the release day.\nImpact of using MLflow and our plans ahead.\nAn apt and concise statement — “Machine learning is 10% machine learning and 90% engineering,” talks Prof. Huyen in her Stanford CS329S course [6]. Perfect models cannot be built overnight. It is an iterative process! And hence, you require tools that help you manage the machine learning lifecycles of your models. This is our story, hope you enjoy it….",
   "footer": ""

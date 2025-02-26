@@ -13,6 +13,8 @@
   "publication_code": "https://github.com/adeepak7/Code_to_demonstrate_sequential_execution_of_2_parallel_regions_created_using_OpenMP_API",
   "publication_video_demonstration_html_name": "",
   "publication_video_demonstration": "",
+  "official_acknowledgement_html_name": "",
+  "official_acknowledgement_version": "",
   "publish_abstract": true,
   "publication_abstract": "The sequential_execution_of_parallel_regions_openmp.cpp file contains a simple C++ code to prove that the 2 parallel regions defined one after the other execute in the sequential order. <br/> This also demonstrates that the printf() function is atomic in nature.",
   "footer": ""
