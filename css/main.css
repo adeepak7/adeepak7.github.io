@@ -49,3 +49,8 @@ body{
   margin: 0; /* Removes extra spacing */
   padding: 0;
 }
+
+#navview_id.js-compact .tight-lines {
+  display: none;
+}
+
