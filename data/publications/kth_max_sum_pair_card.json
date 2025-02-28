@@ -15,7 +15,7 @@
   "publication_video_demonstration": "",
   "official_acknowledgement_html_name": "",
   "official_acknowledgement_version": "",
-  "publish_abstract": false,
-  "publication_abstract": "",
+  "publish_abstract": true,
+  "publication_abstract": "The algorithm aims to find the Kth max sum pair of two indices of an array of N (N>=2) distinct elements [a1, a2, a3, ..., an]. If the sum of values represented by the 2 indices of a single pair in array A is the same as that of any other pair, i.e., if P(i, j) and P(m, n) are 2 distinct pairs and if (A[i] + A[j] = A[m] + A[n]), then the pair containing the index which represents the maximum of all 4 values represented by indices of the 2 pairs in the array obtains the highest priority, i.e., if (A[m] > A[i] > A[n] > A[j]), then the pair containing the index m obtains the highest priority. The purpose of this algorithm is to optimize the computation of recommendations on real time platforms. At the time of making a purchase on e-commerce platforms, with millions of options available in the product catalog, the algorithm can be used to recommend the best complementary product that can be bought as a pair with the main product or two all together different products of same type as of main product which can be bought as a combo or a pair. Not only the top recommendations, but random recommendations are also necessary so that the customers get a good breadth or variety of the available products in the catalog. In this paper, we propose an algorithm which can be used to address both the scenarios in real time and conclusively, it is evident that the time and space complexities are independent of K.",
   "footer": ""
 }
