@@ -45,12 +45,13 @@ body{
 }
 
 .tight-lines {
-  line-height: 1; /* Adjust as needed */
-  margin: 0; /* Removes extra spacing */
+  line-height: 1;  /* Adjust as needed */
+  margin: 0;  /* Removes extra spacing */
   padding: 0;
 }
 
 #navview_id.js-compact .tight-lines {
-  display: none;
+  display: none;  /* Optional: hides tight-lines initially when navview_id has js-compact class */
 }
+
 
